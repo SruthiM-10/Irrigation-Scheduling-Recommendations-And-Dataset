@@ -44,9 +44,8 @@ os.environ["LANGCHAIN_TRACING_V2"] = "false"
 os.environ["LANGCHAIN_API_KEY"] = "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"
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
 os.environ["LANGCHAIN_PROJECT"] = "irrigation-crawler"
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 # sm's acccount
-os.environ["SERPSTACK_API_KEY"] = "a44490072b649f025cfa40e7dbf1ea25"
 
 class DOILLM(BaseModel):
   doi_url: str = Field(description="DOI URL if available, otherwise 'NA'")
