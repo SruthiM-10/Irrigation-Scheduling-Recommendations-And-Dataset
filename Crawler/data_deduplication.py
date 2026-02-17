@@ -41,7 +41,7 @@ import matplotlib.pyplot as plt
 # Set environment variables for LangChain and OpenAI
 import os
 os.environ["LANGCHAIN_TRACING_V2"] = "false"
-os.environ["LANGCHAIN_API_KEY"] = "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"
+os.environ["LANGCHAIN_API_KEY"] = ""
 os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
 os.environ["LANGCHAIN_PROJECT"] = "irrigation-crawler"
 os.environ["OPENAI_API_KEY"] = ""
