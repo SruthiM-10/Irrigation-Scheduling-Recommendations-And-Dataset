@@ -43,7 +43,7 @@ warnings.filterwarnings(
 )
 
 # Set up OpenAI API
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 # sm's acccount
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
