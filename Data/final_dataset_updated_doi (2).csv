@@ -1,0 +1,1084 @@
+,irrigation_scheduling_method_standardized,plant_yield_kg_per_hectare,latitude_decimal_degrees,longitude_decimal_degrees,altitude_numeric,plant_type_standardized_to_10,soil_type_standardized,water_productivity_kg_per_m^3,doi_url,processed_at,relevance_score
+0,Soil Moisture-Based,60572.74244999999,40.178611,116.44425,37.0,Vines,coarse sands,17.37,https://doi.org/10.1038/s41598-024-52972-x,2025-09-12 01:42:16,9.0
+1,Soil Moisture-Based,53505.77129999999,40.178611,116.44416666666667,36.0,Vines,coarse sands,20.52,https://doi.org/10.1038/s41598-024-52972-x,2025-09-12 01:42:16,9.0
+2,Evapotranspiration-Based,58549.7199,40.178611,116.44425,37.0,Vines,coarse sands,25.07,https://doi.org/10.1038/s41598-024-52972-x,2025-09-12 01:42:16,9.0
+3,Evapotranspiration-Based,5085.0,8.4,39.35,1550.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+4,Deficit/Partial Irrigation,4830.0,8.4,39.35,1550.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+5,Deficit/Partial Irrigation,4555.0,8.4,39.35,1550.0,Wheat,sandy clay loams,1.39,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+6,Deficit/Partial Irrigation,3475.0,8.4,39.35,1550.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+7,Deficit/Partial Irrigation,2510.0,8.4,39.35,1550.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+8,Evapotranspiration-Based,5160.0,8.4,39.35,1550.0,Wheat,sandy clay loams,1.26,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+9,Deficit/Partial Irrigation,4940.0,8.4,39.35,1550.0,Wheat,sandy clay loams,1.33,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+10,Deficit/Partial Irrigation,4710.0,8.4,39.35,1550.0,Wheat,sandy clay loams,1.44,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+11,Deficit/Partial Irrigation,3590.0,8.4,39.35,1550.0,Wheat,sandy clay loams,1.26,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+12,Deficit/Partial Irrigation,2670.0,8.4,39.35,1550.0,Wheat,sandy clay loams,1.09,https://doi.org/10.1177/11786221241274019,2025-09-12 04:01:02,9.0
+13,Conventional/Fixed Scheduling,12981.81735,33.333333333333336,36.43333333333333,600.0,Maize,clay,1.97,https://doi.org/10.1016/j.agwat.2006.03.019,2025-09-12 04:03:56,8.0
+14,Conventional/Fixed Scheduling,10840.860749999998,33.333333333333336,36.43333333333333,600.0,Maize,clay,1.65,https://doi.org/10.1016/j.agwat.2006.03.019,2025-09-12 04:03:56,8.0
+15,Conventional/Fixed Scheduling,12782.23665,33.333333333333336,36.43333333333333,600.0,Maize,clay,1.94,https://doi.org/10.1016/j.agwat.2006.03.019,2025-09-12 04:03:56,8.0
+16,Conventional/Fixed Scheduling,12981.81735,33.333333333333336,36.43333333333333,600.0,Maize,clay,1.97,https://doi.org/10.1016/j.agwat.2006.03.019,2025-09-12 04:03:56,8.0
+17,Conventional/Fixed Scheduling,10840.860749999998,33.333333333333336,36.43333333333333,600.0,Maize,clay,1.65,https://doi.org/10.1016/j.agwat.2006.03.019,2025-09-12 04:03:56,8.0
+18,Conventional/Fixed Scheduling,12782.23665,33.333333333333336,36.43333333333333,600.0,Maize,clay,1.94,https://doi.org/10.1016/j.agwat.2006.03.019,2025-09-12 04:03:56,8.0
+19,Conventional/Fixed Scheduling,12637.087049999998,33.333333333333336,36.43333333333333,600.0,Maize,clay,1.92,https://doi.org/10.1016/j.agwat.2006.03.019,2025-09-12 04:03:56,8.0
+20,Conventional/Fixed Scheduling,12637.087049999998,33.333333333333336,36.43333333333333,600.0,Maize,clay,1.92,https://doi.org/10.1016/j.agwat.2006.03.019,2025-09-12 04:03:56,8.0
+21,Deficit/Partial Irrigation,24060.0,-23.416666666666668,-51.95,542.0,Vegetables,clay,10.39993381500244,https://doi.org/10.1093/jxb/erv034,2025-09-12 04:06:41,9.0
+22,Deficit/Partial Irrigation,25400.0,-23.416666666666668,-51.95,542.0,Vegetables,clay,10.39993381500244,https://doi.org/10.1093/jxb/erv034,2025-09-12 04:06:41,9.0
+23,Deficit/Partial Irrigation,27010.0,-23.416666666666668,-51.95,542.0,Vegetables,clay,10.550725936889648,https://doi.org/10.1093/jxb/erv034,2025-09-12 04:06:41,9.0
+24,Evapotranspiration-Based,30600.0,-23.416666666666668,-51.95,542.0,Vegetables,clay,10.59600067138672,https://doi.org/10.1093/jxb/erv034,2025-09-12 04:06:41,9.0
+55,Deficit/Partial Irrigation,17.423224,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.432,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+56,Deficit/Partial Irrigation,23.688392,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.669,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+57,Deficit/Partial Irrigation,23.37608,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.6719999999999999,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+58,Deficit/Partial Irrigation,21.161504,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.583,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+59,Deficit/Partial Irrigation,17.082520000000002,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.475,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+60,Deficit/Partial Irrigation,18.577832,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.441,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+61,Deficit/Partial Irrigation,24.672648,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.5780000000000001,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+62,Deficit/Partial Irrigation,24.32248,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.5740000000000001,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+63,Deficit/Partial Irrigation,21.076328,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.521,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+64,Deficit/Partial Irrigation,17.60304,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.418,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+65,Deficit/Partial Irrigation,15.52096,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.394,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+66,Deficit/Partial Irrigation,22.202544,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.5730000000000001,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+67,Deficit/Partial Irrigation,21.899696,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.584,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+68,Deficit/Partial Irrigation,20.20564,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.5349999999999999,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+69,Deficit/Partial Irrigation,14.62188,8.4,39.35,1563.0,Legumes_Grains,sandy clay loams,0.404,https://doi.org/10.3390/su151310503,2025-09-12 04:23:00,9.0
+203,Evapotranspiration-Based,3384.3,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+204,Deficit/Partial Irrigation,2626.0,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+205,Deficit/Partial Irrigation,3042.8,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+206,Deficit/Partial Irrigation,2736.5,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+207,Deficit/Partial Irrigation,3087.4,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+208,Deficit/Partial Irrigation,1956.8,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+209,Deficit/Partial Irrigation,2388.0,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+210,Deficit/Partial Irrigation,2271.3,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+211,Deficit/Partial Irrigation,2228.0,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+212,Deficit/Partial Irrigation,2968.7,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+213,Deficit/Partial Irrigation,1224.8,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+214,Evapotranspiration-Based,4037.2,-22.7284,-47.6492,526.0,Soybean,sandy loams,8.594532012939453,https://doi.org/10.18011/bioeng2016v10n3p305-315,2025-09-12 04:53:56,9.0
+215,Conventional/Fixed Scheduling,6899.0,-22.195833333333333,-54.92167,446.0,Vegetables,clay,8.594532012939453,https://doi.org/10.13083/reveng.v27i5.979,2025-09-12 04:57:35,8.0
+216,Conventional/Fixed Scheduling,9731.43,-22.195833333333333,-54.92167,446.0,Vegetables,clay,8.84350872039795,https://doi.org/10.13083/reveng.v27i5.979,2025-09-12 04:57:35,8.0
+217,Soil Moisture-Based,24040.4025,-21.23333333333333,-45.0,918.0,Vegetables,clay,9.71,https://doi.org/10.5433/1679-0359.2016v37n1p7,2025-09-12 04:58:40,9.0
+222,Deficit/Partial Irrigation,3772.07523,31.0,30.9,5.0,Wheat,clay,8.594532012939453,https://doi.org/10.1038/s41598-020-59650-8,2025-09-12 05:06:10,8.0
+223,Evapotranspiration-Based,4672.00275,31.0,30.9,5.0,Wheat,clay,8.594532012939453,https://doi.org/10.1038/s41598-020-59650-8,2025-09-12 05:06:10,8.0
+224,Deficit/Partial Irrigation,2672.56701,31.3,31.2,3.0,Wheat,clay,8.594532012939453,https://doi.org/10.1038/s41598-020-59650-8,2025-09-12 05:06:10,8.0
+225,Evapotranspiration-Based,3532.57839,31.3,31.2,3.0,Wheat,clay,8.594532012939453,https://doi.org/10.1038/s41598-020-59650-8,2025-09-12 05:06:10,8.0
+226,Deficit/Partial Irrigation,2125.534455,31.4,31.5,3.0,Wheat,clay,8.594532012939453,https://doi.org/10.1038/s41598-020-59650-8,2025-09-12 05:06:10,8.0
+227,Evapotranspiration-Based,2676.19575,31.4,31.5,3.0,Wheat,clay,8.594532012939453,https://doi.org/10.1038/s41598-020-59650-8,2025-09-12 05:06:10,8.0
+228,Evapotranspiration-Based,4456.7,29.3982985,71.6910248,116.0,Fibers_Oilseeds,sandy loams,0.493,https://doi.org/10.1007/s11356-021-15259-6,2025-09-12 05:12:17,9.0
+229,Evapotranspiration-Based,2958.7,29.3982985,71.6910248,116.0,Fibers_Oilseeds,sandy loams,0.563,https://doi.org/10.1007/s11356-021-15259-6,2025-09-12 05:12:17,9.0
+230,Evapotranspiration-Based,4248.3,29.3982985,71.6910248,116.0,Fibers_Oilseeds,sandy loams,0.404,https://doi.org/10.1007/s11356-021-15259-6,2025-09-12 05:12:17,9.0
+231,Evapotranspiration-Based,2863.7,29.3982985,71.6910248,116.0,Fibers_Oilseeds,sandy loams,0.481,https://doi.org/10.1007/s11356-021-15259-6,2025-09-12 05:12:17,9.0
+232,Evapotranspiration-Based,3707.0,29.3982985,71.6910248,116.0,Fibers_Oilseeds,sandy loams,8.594532012939453,https://doi.org/10.1007/s11356-021-15259-6,2025-09-12 05:12:17,9.0
+233,Conventional/Fixed Scheduling,4808.080499999999,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,6.81,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+234,Conventional/Fixed Scheduling,7983.228,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,5.12,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+235,Conventional/Fixed Scheduling,7620.354,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,3.53,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+236,Conventional/Fixed Scheduling,7620.354,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,4.04,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+237,Conventional/Fixed Scheduling,7166.7615,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,3.98,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+238,Conventional/Fixed Scheduling,6441.013499999999,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,4.03,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+239,Deficit/Partial Irrigation,70564.0,-13.258055555555556,-43.55194444444444,441.0,Perennials,sandy clay loams,9.26,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+240,Deficit/Partial Irrigation,89933.0,-13.258055555555556,-43.55194444444444,441.0,Perennials,sandy clay loams,9.08,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+241,Deficit/Partial Irrigation,70253.0,-13.258055555555556,-43.55194444444444,441.0,Perennials,sandy clay loams,9.22,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+242,Deficit/Partial Irrigation,84453.0,-13.258055555555556,-43.55194444444444,441.0,Perennials,sandy clay loams,8.52,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+243,Deficit/Partial Irrigation,67594.0,-13.258055555555556,-43.55194444444444,441.0,Perennials,sandy clay loams,8.87,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+244,Deficit/Partial Irrigation,71837.0,-13.258055555555556,-43.55194444444444,441.0,Perennials,sandy clay loams,7.25,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+245,Conventional/Fixed Scheduling,70058.0,-13.258055555555556,-43.55194444444444,441.0,Perennials,sandy clay loams,9.19,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+246,Conventional/Fixed Scheduling,71467.0,-13.258055555555556,-43.55194444444444,441.0,Perennials,sandy clay loams,7.21,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+247,Evapotranspiration-Based,96218.0,-13.258055555555556,-43.55194444444444,441.0,Perennials,sandy clay loams,6.31,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+248,Deficit/Partial Irrigation,60464.0,-15.129722,-43.95013888888889,551.0,Perennials,sandy loams,7.16,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+249,Deficit/Partial Irrigation,60948.0,-15.129722,-43.95013888888889,551.0,Perennials,sandy loams,7.22,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+250,Deficit/Partial Irrigation,54200.0,-15.129722,-43.95013888888889,551.0,Perennials,sandy loams,6.42,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+251,Conventional/Fixed Scheduling,59977.0,-15.129722,-43.95013888888889,551.0,Perennials,sandy loams,7.1,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+252,Evapotranspiration-Based,78542.0,-15.129722,-43.95013888888889,551.0,Perennials,sandy loams,4.83,https://doi.org/10.1038/s41598-021-90078-w,2025-09-12 05:19:54,9.0
+253,Deficit/Partial Irrigation,12030.0,30.187,31.69388888888889,74.0,Legumes_Grains,sandy clay loams,5.536,https://doi.org/10.17159/wsa/2020.v46.i4.9070,2025-09-12 05:35:59,9.0
+254,Deficit/Partial Irrigation,10827.0,30.187,31.69388888888889,74.0,Legumes_Grains,sandy clay loams,4.862,https://doi.org/10.17159/wsa/2020.v46.i4.9070,2025-09-12 05:35:59,9.0
+255,Deficit/Partial Irrigation,10693.0,30.187,31.69388888888889,74.0,Legumes_Grains,sandy clay loams,3.967,https://doi.org/10.17159/wsa/2020.v46.i4.9070,2025-09-12 05:35:59,9.0
+256,Deficit/Partial Irrigation,10559.0,30.187,31.69388888888889,74.0,Legumes_Grains,sandy clay loams,3.967,https://doi.org/10.17159/wsa/2020.v46.i4.9070,2025-09-12 05:35:59,9.0
+257,Deficit/Partial Irrigation,12364.0,30.187,31.69388888888889,74.0,Legumes_Grains,sandy clay loams,5.65,https://doi.org/10.17159/wsa/2020.v46.i4.9070,2025-09-12 05:35:59,9.0
+258,Deficit/Partial Irrigation,10893.0,30.187,31.69389,74.0,Legumes_Grains,sandy clay loams,4.821,https://doi.org/10.17159/wsa/2020.v46.i4.9070,2025-09-12 05:35:59,9.0
+259,Deficit/Partial Irrigation,10827.0,30.187,31.69388888888889,74.0,Legumes_Grains,sandy clay loams,3.977,https://doi.org/10.17159/wsa/2020.v46.i4.9070,2025-09-12 05:35:59,9.0
+260,Deficit/Partial Irrigation,10893.0,30.187,31.69388888888889,74.0,Legumes_Grains,sandy clay loams,4.821,https://doi.org/10.17159/wsa/2020.v46.i4.9070,2025-09-12 05:35:59,9.0
+261,Deficit/Partial Irrigation,10827.0,30.186944444444443,31.69388888888889,74.0,Legumes_Grains,sandy clay loams,3.977,https://doi.org/10.17159/wsa/2020.v46.i4.9070,2025-09-12 05:35:59,9.0
+262,Deficit/Partial Irrigation,17281.87425,80.748611,39.79694444444444,1112.0,Vegetables,sandy loams,3.19,https://doi.org/10.7176/jnsr/12-4-01,2025-09-12 05:36:56,9.0
+263,Deficit/Partial Irrigation,16701.275849999998,80.748611,39.79694444444444,1112.0,Vegetables,sandy loams,3.07,https://doi.org/10.7176/jnsr/12-4-01,2025-09-12 05:36:56,9.0
+264,Deficit/Partial Irrigation,15186.276899999995,80.748611,39.79694444444444,1112.0,Vegetables,sandy loams,2.8,https://doi.org/10.7176/jnsr/12-4-01,2025-09-12 05:36:56,9.0
+265,Deficit/Partial Irrigation,14351.6667,80.748611,390.7969444444444,1112.0,Vegetables,sandy loams,2.75,https://doi.org/10.7176/jnsr/12-4-01,2025-09-12 05:36:56,9.0
+266,Deficit/Partial Irrigation,13979.72085,80.748611,39.79694444444444,1112.0,Vegetables,sandy loams,2.74,https://doi.org/10.7176/jnsr/12-4-01,2025-09-12 05:36:56,9.0
+267,Evapotranspiration-Based,26308.365,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,25.4,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+268,Deficit/Partial Irrigation,25582.617,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,29.2,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+269,Deficit/Partial Irrigation,25582.617,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,29.8,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+270,Deficit/Partial Irrigation,23042.499,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,27.4,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+271,Evapotranspiration-Based,71214.02249999999,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,38.8,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+272,Deficit/Partial Irrigation,48352.9605,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,33.1,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+273,Deficit/Partial Irrigation,43000.569,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,39.2,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+274,Deficit/Partial Irrigation,35652.3705,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,38.9,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+275,Evapotranspiration-Based,61688.58,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,39.1,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+276,Deficit/Partial Irrigation,52616.73,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,39.2,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+277,Deficit/Partial Irrigation,45722.124,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,40.0,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+278,Deficit/Partial Irrigation,41367.636,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,40.0,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+279,Evapotranspiration-Based,35652.3705,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,27.1,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+280,Deficit/Partial Irrigation,20955.9735,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,21.2,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+281,Deficit/Partial Irrigation,15966.456,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,36.7,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+282,Deficit/Partial Irrigation,9434.724,-17.7,31.066666666666663,1479.0,Vegetables,sandy clay loams,29.7,https://doi.org/10.17159/wsa/2023.v49.i4.3935,2025-09-12 05:40:13,9.0
+283,Deficit/Partial Irrigation,6831.10305,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,2.326,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+284,Deficit/Partial Irrigation,6413.79795,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,2.2510000000000003,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+285,Deficit/Partial Irrigation,4055.11695,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,1.505,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+286,Deficit/Partial Irrigation,6223.2891,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,1.4220000000000002,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+287,Deficit/Partial Irrigation,5824.1277,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,1.385,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+288,Deficit/Partial Irrigation,3556.1652,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,0.93,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+289,Deficit/Partial Irrigation,7066.971149999999,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,2.343,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+290,Deficit/Partial Irrigation,6005.5647,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,2.035,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+291,Deficit/Partial Irrigation,4463.3502,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,1.585,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+292,Deficit/Partial Irrigation,6341.22315,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,1.624,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+293,Deficit/Partial Irrigation,5207.2419,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,1.355,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+294,Deficit/Partial Irrigation,3492.66225,34.333333333333336,108.4,466.7,Wheat,sandy clay loams,1.022,https://doi.org/10.3389/fpls.2017.01408,2025-09-12 06:08:21,9.0
+300,Conventional/Fixed Scheduling,2549.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.458,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+301,Conventional/Fixed Scheduling,2183.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.395,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+302,Conventional/Fixed Scheduling,2040.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.376,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+303,Conventional/Fixed Scheduling,1719.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.319,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+304,Deficit/Partial Irrigation,2216.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.399,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+305,Deficit/Partial Irrigation,2530.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.457,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+306,Deficit/Partial Irrigation,2491.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.449,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+307,Deficit/Partial Irrigation,2227.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.402,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+308,Deficit/Partial Irrigation,1883.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.349,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+309,Deficit/Partial Irrigation,1996.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.368,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+310,Deficit/Partial Irrigation,1939.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.357,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+311,Deficit/Partial Irrigation,1699.0,30.09,74.55,211.0,Fibers_Oilseeds,loamy sands,0.315,https://doi.org/10.1016/j.agwat.2022.107982,2025-09-12 14:23:48,9.0
+312,Evapotranspiration-Based,2500.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.78,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+313,Soil Moisture-Based,3500.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.61,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+314,Soil Moisture-Based,3000.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.61,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+315,Plant or Climate-Based,2400.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.78,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+316,Plant or Climate-Based,2000.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.61,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+317,Evapotranspiration-Based,3400.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.78,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+318,Soil Moisture-Based,4200.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.61,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+319,Soil Moisture-Based,3400.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.61,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+320,Plant or Climate-Based,2900.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.78,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+321,Plant or Climate-Based,2200.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.61,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+322,Evapotranspiration-Based,2600.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.78,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+323,Soil Moisture-Based,3300.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.61,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+324,Plant or Climate-Based,2600.0,22.7775,-47.2958,560.0,Soybean,sandy loams,0.78,https://doi.org/10.1016/j.agwat.2024.108709,2025-09-12 14:24:35,10.0
+325,Specialized Irrigation Delivery,42429.04245,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,15.74,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+326,Conventional/Fixed Scheduling,45141.52559999999,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,13.74,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+327,Conventional/Fixed Scheduling,42429.04245,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,15.74,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+328,Conventional/Fixed Scheduling,39371.829,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,12.97,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+329,Conventional/Fixed Scheduling,33556.77315,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,11.55,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+330,Conventional/Fixed Scheduling,33819.8568,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,12.12,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+331,Conventional/Fixed Scheduling,31270.66695,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,11.99,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+332,Conventional/Fixed Scheduling,27442.34625,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,10.65,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+333,Conventional/Fixed Scheduling,27623.78325,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,10.86,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+334,Conventional/Fixed Scheduling,31143.661049999995,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,11.16,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+335,Conventional/Fixed Scheduling,30390.6975,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,11.22,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+336,Conventional/Fixed Scheduling,29964.32055,36.80055555555556,106.36472,1489.0,Roots_Tubers,sandy loams,12.01,https://doi.org/10.3389/fpls.2023.1242074,2025-09-12 14:34:20,9.0
+337,Specialized Irrigation Delivery,22634.26575,28.6391961,77.1662771,231.0,Roots_Tubers,sandy loams,9.815242767333984,https://doi.org/10.5539/jas.v4n1p71,2025-09-12 14:54:35,8.0
+338,Specialized Irrigation Delivery,23604.9537,28.6391961,77.1662771,231.0,Roots_Tubers,sandy loams,9.815242767333984,https://doi.org/10.5539/jas.v4n1p71,2025-09-12 14:54:35,8.0
+339,Specialized Irrigation Delivery,34835.903999999995,35.03333333333333,45.96666666666667,670.0,Roots_Tubers,sandy loams,5.824,https://doi.org/10.24017/science.2018.3.5,2025-09-12 14:55:17,9.0
+340,Specialized Irrigation Delivery,33710.9946,35.03333333333333,45.96666666666667,670.0,Roots_Tubers,sandy loams,7.584,https://doi.org/10.24017/science.2018.3.5,2025-09-12 14:55:17,9.0
+341,Specialized Irrigation Delivery,30553.9908,35.03333333333333,45.96666666666667,670.0,Roots_Tubers,sandy loams,9.0,https://doi.org/10.24017/science.2018.3.5,2025-09-12 14:55:17,9.0
+342,Specialized Irrigation Delivery,28757.7645,35.03333333333333,45.96666666666667,670.0,Roots_Tubers,sandy loams,10.03,https://doi.org/10.24017/science.2018.3.5,2025-09-12 14:55:17,9.0
+343,Specialized Irrigation Delivery,36949.64504999999,35.03333333333333,45.96666666666667,670.0,Roots_Tubers,sandy loams,6.171,https://doi.org/10.24017/science.2018.3.5,2025-09-12 14:55:17,9.0
+344,Specialized Irrigation Delivery,34926.6225,35.03333333333333,45.96666666666667,670.0,Roots_Tubers,sandy loams,7.859999999999999,https://doi.org/10.24017/science.2018.3.5,2025-09-12 14:55:17,9.0
+345,Specialized Irrigation Delivery,30935.0085,35.03333333333333,45.96666666666667,670.0,Roots_Tubers,sandy loams,9.117,https://doi.org/10.24017/science.2018.3.5,2025-09-12 14:55:17,9.0
+346,Specialized Irrigation Delivery,28304.172,35.03333333333333,45.96666666666667,670.0,Roots_Tubers,sandy loams,9.894,https://doi.org/10.24017/science.2018.3.5,2025-09-12 14:55:17,9.0
+347,Deficit/Partial Irrigation,48500.0,38.4583983,47.9313001,1677.0,Roots_Tubers,clay,7.8,https://doi.org/10.1007/s11540-010-9179-5,2025-09-12 14:59:14,8.0
+348,Deficit/Partial Irrigation,42900.0,38.4583983,47.9313001,1677.0,Roots_Tubers,clay,7.92,https://doi.org/10.1007/s11540-010-9179-5,2025-09-12 14:59:14,8.0
+349,Deficit/Partial Irrigation,37600.0,38.4583983,47.9313001,1677.0,Roots_Tubers,clay,8.88,https://doi.org/10.1007/s11540-010-9179-5,2025-09-12 14:59:14,8.0
+350,Deficit/Partial Irrigation,44500.0,38.4583983,47.9313001,1677.0,Roots_Tubers,clay,7.17,https://doi.org/10.1007/s11540-010-9179-5,2025-09-12 14:59:14,8.0
+351,Deficit/Partial Irrigation,40800.0,38.4583983,47.9313001,1677.0,Roots_Tubers,clay,7.54,https://doi.org/10.1007/s11540-010-9179-5,2025-09-12 14:59:14,8.0
+352,Deficit/Partial Irrigation,38600.0,38.4583983,47.9313001,1677.0,Roots_Tubers,clay,9.12,https://doi.org/10.1007/s11540-010-9179-5,2025-09-12 14:59:14,8.0
+353,Conventional/Fixed Scheduling,30761.0,30.32,31.03,17.9,Roots_Tubers,sandy clay loams,10.011309623718262,https://doi.org/10.4236/jwarp.2016.83024,2025-09-12 15:03:43,9.0
+354,Deficit/Partial Irrigation,33564.0,30.32,31.03,17.9,Roots_Tubers,sandy clay loams,10.011309623718262,https://doi.org/10.4236/jwarp.2016.83024,2025-09-12 15:03:43,9.0
+355,Specialized Irrigation Delivery,39729.0,30.32,31.03,17.9,Roots_Tubers,sandy clay loams,10.184436798095703,https://doi.org/10.4236/jwarp.2016.83024,2025-09-12 15:03:43,9.0
+356,Specialized Irrigation Delivery,37032.0,30.32,31.03,17.9,Roots_Tubers,sandy clay loams,10.184436798095703,https://doi.org/10.4236/jwarp.2016.83024,2025-09-12 15:03:43,9.0
+357,Conventional/Fixed Scheduling,29543.0,30.32,31.03,17.9,Roots_Tubers,sandy clay loams,9.966034889221191,https://doi.org/10.4236/jwarp.2016.83024,2025-09-12 15:03:43,9.0
+358,Deficit/Partial Irrigation,32421.0,30.32,31.03,17.9,Roots_Tubers,sandy clay loams,10.011309623718262,https://doi.org/10.4236/jwarp.2016.83024,2025-09-12 15:03:43,9.0
+359,Specialized Irrigation Delivery,38390.0,30.32,31.03,17.9,Roots_Tubers,sandy clay loams,10.184436798095703,https://doi.org/10.4236/jwarp.2016.83024,2025-09-12 15:03:43,9.0
+360,Specialized Irrigation Delivery,35586.0,30.32,31.03,17.9,Roots_Tubers,sandy clay loams,10.011309623718262,https://doi.org/10.4236/jwarp.2016.83024,2025-09-12 15:03:43,9.0
+363,Evapotranspiration-Based,4450.0,26.05,75.28,427.0,Wheat,loamy sands,8.594532012939453,https://doi.org/10.3390/su151310204,2025-09-12 15:44:29,9.0
+364,Evapotranspiration-Based,3780.0,26.05,75.28,427.0,Wheat,loamy sands,8.594532012939453,https://doi.org/10.3390/su151310204,2025-09-12 15:44:29,9.0
+365,Evapotranspiration-Based,4140.0,26.05,75.28,427.0,Wheat,loamy sands,8.594532012939453,https://doi.org/10.3390/su151310204,2025-09-12 15:44:29,9.0
+366,Evapotranspiration-Based,4370.0,26.05,75.28,427.0,Wheat,loamy sands,8.594532012939453,https://doi.org/10.3390/su151310204,2025-09-12 15:44:29,9.0
+367,Evapotranspiration-Based,4450.0,26.05,75.28,427.0,Wheat,loamy sands,8.594532012939453,https://doi.org/10.3390/su151310204,2025-09-12 15:44:29,9.0
+368,Evapotranspiration-Based,3780.0,26.05,75.28,427.0,Wheat,loamy sands,8.594532012939453,https://doi.org/10.3390/su151310204,2025-09-12 15:44:29,9.0
+369,Evapotranspiration-Based,4140.0,26.05,75.28,427.0,Wheat,loamy sands,8.594532012939453,https://doi.org/10.3390/su151310204,2025-09-12 15:44:29,9.0
+370,Evapotranspiration-Based,4370.0,26.05,75.28,427.0,Wheat,loamy sands,8.594532012939453,https://doi.org/10.3390/su151310204,2025-09-12 15:44:29,9.0
+371,Soil Moisture-Based,52707.4485,11.175,37.02,1960.0,Roots_Tubers,sandy clay loams,9.1,https://doi.org/10.1016/j.heliyon.2023.e19762,2025-09-12 15:56:34,9.0
+372,Evapotranspiration-Based,38011.0515,11.175,37.02,1960.0,Roots_Tubers,sandy clay loams,7.8,https://doi.org/10.1016/j.heliyon.2023.e19762,2025-09-12 15:56:34,9.0
+373,Soil Moisture-Based,38736.7995,6.066666666666666,37.56666666666667,1200.0,Vegetables,clay,15.4,https://doi.org/10.1080/23311932.2023.2214428,2025-09-12 16:03:31,9.0
+374,Soil Moisture-Based,37983.83594999999,6.066666666666666,37.56666666666667,1200.0,Vegetables,clay,18.5,https://doi.org/10.1080/23311932.2023.2214428,2025-09-12 16:03:31,9.0
+375,Soil Moisture-Based,26671.239,6.066666666666666,37.56666666666667,1200.0,Vegetables,clay,16.6,https://doi.org/10.1080/23311932.2023.2214428,2025-09-12 16:03:31,9.0
+376,Evapotranspiration-Based,38555.3625,6.066666666666666,37.56666666666667,1200.0,Vegetables,clay,11.6,https://doi.org/10.1080/23311932.2023.2214428,2025-09-12 16:03:31,9.0
+377,Evapotranspiration-Based,37766.11155,6.066666666666666,37.56666666666667,1200.0,Vegetables,clay,13.5,https://doi.org/10.1080/23311932.2023.2214428,2025-09-12 16:03:31,9.0
+378,Evapotranspiration-Based,26217.6465,6.066666666666666,37.56666666666667,1200.0,Vegetables,clay,11.5,https://doi.org/10.1080/23311932.2023.2214428,2025-09-12 16:03:31,9.0
+379,Soil Moisture-Based,16238.611499999995,28.6139,77.209,214.0,Legumes_Grains,sandy loams,11.0,https://doi.org/10.3390/agronomy12020278,2025-09-12 16:20:50,10.0
+380,Soil Moisture-Based,14061.367499999998,28.6139,77.209,214.0,Legumes_Grains,sandy loams,8.848677635192871,https://doi.org/10.3390/agronomy12020278,2025-09-12 16:20:50,10.0
+381,Soil Moisture-Based,11339.8125,28.6139,77.209,214.0,Legumes_Grains,sandy loams,8.848677635192871,https://doi.org/10.3390/agronomy12020278,2025-09-12 16:20:50,10.0
+382,Specialized Irrigation Delivery,7500.0,37.63333333333333,107.5,1300.0,Hay,coarse sands,1.8,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+383,Specialized Irrigation Delivery,7759.0,37.63333333333333,107.5,1300.0,Hay,coarse sands,1.73,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+384,Specialized Irrigation Delivery,10585.5,37.63333333333333,107.5,1300.0,Hay,coarse sands,2.14,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+385,Specialized Irrigation Delivery,11226.5,37.63333333333333,107.5,1300.0,Hay,coarse sands,2.11,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+386,Specialized Irrigation Delivery,7527.0,37.63333333333333,107.5,1300.0,Hay,coarse sands,8.733600616455078,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+387,Specialized Irrigation Delivery,7930.5,37.63333333333333,107.5,1300.0,Hay,coarse sands,8.733600616455078,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+388,Specialized Irrigation Delivery,10369.5,37.63333333333333,107.5,1300.0,Hay,coarse sands,8.908891677856445,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+389,Specialized Irrigation Delivery,10777.5,37.63333333333333,107.5,1300.0,Hay,coarse sands,8.908891677856445,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+390,Specialized Irrigation Delivery,11101.5,37.63333333333333,107.5,1300.0,Hay,coarse sands,8.946345329284668,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+391,Specialized Irrigation Delivery,11349.0,37.63333333333333,107.5,1300.0,Hay,coarse sands,8.946345329284668,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+392,Evapotranspiration-Based,9879.24465,45.3167,19.8333,84.0,Maize,silt loams,2.41,https://doi.org/10.3390/agriculture13101994,2025-09-12 17:01:12,9.0
+393,Evapotranspiration-Based,7602.210300000001,45.3167,19.8333,84.0,Maize,silt loams,1.0,https://doi.org/10.3390/agriculture13101994,2025-09-12 17:01:12,9.0
+394,Plant or Climate-Based,7937.86875,45.3167,19.8333,84.0,Maize,silt loams,1.34,https://doi.org/10.3390/agriculture13101994,2025-09-12 17:01:12,9.0
+395,Evapotranspiration-Based,11693.61465,45.3167,19.8333,84.0,Maize,silt loams,2.94,https://doi.org/10.3390/agriculture13101994,2025-09-12 17:01:12,9.0
+396,Evapotranspiration-Based,10078.82535,45.3167,19.8333,84.0,Maize,silt loams,1.42,https://doi.org/10.3390/agriculture13101994,2025-09-12 17:01:12,9.0
+397,Plant or Climate-Based,11067.657,45.3167,19.8333,84.0,Maize,silt loams,2.07,https://doi.org/10.3390/agriculture13101994,2025-09-12 17:01:12,9.0
+398,Evapotranspiration-Based,8527.539,45.3167,19.8333,84.0,Maize,silt loams,1.42,https://doi.org/10.3390/agriculture13101994,2025-09-12 17:01:12,9.0
+399,Evapotranspiration-Based,8681.76045,45.3167,19.8333,84.0,Maize,silt loams,1.71,https://doi.org/10.3390/agriculture13101994,2025-09-12 17:01:12,9.0
+400,Plant or Climate-Based,8146.5213,45.3167,19.8333,84.0,Maize,silt loams,1.58,https://doi.org/10.3390/agriculture13101994,2025-09-12 17:01:12,9.0
+401,Conventional/Fixed Scheduling,3212.0,31.4220558,73.0923253,188.0,Wheat,sandy loams,1.1800000000000002,https://doi.org/10.1007/s10333-022-00911-9,2025-09-12 23:38:02,9.0
+402,Conventional/Fixed Scheduling,3707.0,31.4220558,73.0923253,188.0,Wheat,sandy loams,1.36,https://doi.org/10.1007/s10333-022-00911-9,2025-09-12 23:38:02,9.0
+403,Conventional/Fixed Scheduling,3286.0,31.4220558,73.0923253,188.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1007/s10333-022-00911-9,2025-09-12 23:38:02,9.0
+404,Conventional/Fixed Scheduling,3467.0,31.4220558,73.0923253,188.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1007/s10333-022-00911-9,2025-09-12 23:38:02,9.0
+415,Evapotranspiration-Based,40460.451,31.25,75.7,280.0,Vegetables,sandy loams,12.065560499999998,https://doi.org/10.54386/jam.v25i4.2269,2025-09-12 23:41:20,9.0
+416,Evapotranspiration-Based,38237.84774999999,31.25,75.7,280.0,Vegetables,sandy loams,14.6056785,https://doi.org/10.54386/jam.v25i4.2269,2025-09-12 23:41:20,9.0
+417,Evapotranspiration-Based,34019.4375,31.25,75.7,280.0,Vegetables,sandy loams,12.337716,https://doi.org/10.54386/jam.v25i4.2269,2025-09-12 23:41:20,9.0
+418,Evapotranspiration-Based,28032.0165,31.25,75.7,280.0,Vegetables,sandy loams,11.8841235,https://doi.org/10.54386/jam.v25i4.2269,2025-09-12 23:41:20,9.0
+419,Deficit/Partial Irrigation,38736.7995,31.25,75.7,280.0,Vegetables,sandy loams,12.6098715,https://doi.org/10.54386/jam.v25i4.2269,2025-09-12 23:41:20,9.0
+420,Deficit/Partial Irrigation,34926.6225,31.25,75.7,280.0,Vegetables,sandy loams,12.700589999999998,https://doi.org/10.54386/jam.v25i4.2269,2025-09-12 23:41:20,9.0
+421,Soil Moisture-Based,25401.18,31.25,75.7,280.0,Vegetables,sandy loams,5.261672999999999,https://doi.org/10.54386/jam.v25i4.2269,2025-09-12 23:41:20,9.0
+422,Deficit/Partial Irrigation,6422.8698,8.764167,39.00805555555556,1610.0,Vegetables,clay,3.08,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+423,Deficit/Partial Irrigation,6749.4564,8.764167,39.00805555555556,1610.0,Vegetables,clay,3.17,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+424,Deficit/Partial Irrigation,6386.582399999999,8.764167,39.00805555555556,1610.0,Vegetables,clay,2.76,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+425,Deficit/Partial Irrigation,5760.624749999999,8.764167,39.00805555555556,1610.0,Vegetables,clay,2.71,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+426,Deficit/Partial Irrigation,4554.068699999999,8.764167,39.00805555555556,1610.0,Vegetables,clay,2.7,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+427,Deficit/Partial Irrigation,5678.978099999999,8.764167,39.00805555555556,1610.0,Vegetables,clay,1.83,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+428,Deficit/Partial Irrigation,5388.6789,8.764167,39.00805555555556,1610.0,Vegetables,clay,1.9,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+429,Deficit/Partial Irrigation,5388.6789,8.764167,39.00805555555556,1610.0,Vegetables,clay,1.73,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+430,Deficit/Partial Irrigation,3937.1829,8.764167,39.00805555555556,1610.0,Vegetables,clay,0.73,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+431,Deficit/Partial Irrigation,6050.923949999999,8.764167,39.00805555555556,1610.0,Vegetables,clay,1.9,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+432,Deficit/Partial Irrigation,6758.528249999999,8.764167,39.00805555555556,1610.0,Vegetables,clay,2.42,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+433,Deficit/Partial Irrigation,5887.63065,8.764167,39.00805555555556,1610.0,Vegetables,clay,1.7,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+434,Deficit/Partial Irrigation,4245.6258,8.764167,39.00805555555556,1610.0,Vegetables,clay,0.78,https://doi.org/10.26855/ijfsa.2021.06.015,2025-09-12 23:41:52,9.0
+435,Specialized Irrigation Delivery,7751.64,38.43333333333333,106.05,1123.0,Legumes_Grains,sandy loams,2.0,https://doi.org/10.1038/s41598-022-20652-3,2025-09-12 23:43:19,10.0
+436,Specialized Irrigation Delivery,7245.41,38.43333333333333,106.05,1123.0,Legumes_Grains,sandy loams,1.49,https://doi.org/10.1038/s41598-022-20652-3,2025-09-12 23:43:19,10.0
+437,Specialized Irrigation Delivery,8758.25,38.43333333333333,106.05,1123.0,Legumes_Grains,sandy loams,1.96,https://doi.org/10.1038/s41598-022-20652-3,2025-09-12 23:43:19,10.0
+438,Deficit/Partial Irrigation,14681.0,42.1067125,-85.0796988,283.0,Maize,sandy loams,8.946345329284668,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+439,Deficit/Partial Irrigation,15183.0,42.1067125,-85.0796988,283.0,Maize,sandy loams,8.946345329284668,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+440,Deficit/Partial Irrigation,13740.0,42.1067125,-85.0796988,283.0,Maize,sandy loams,8.946345329284668,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+441,Deficit/Partial Irrigation,4127.0,42.0667135,-85.1360882,279.0,Soybean,sandy loams,8.823047637939453,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+442,Deficit/Partial Irrigation,4315.0,42.0667135,-85.1360882,279.0,Soybean,sandy loams,8.823047637939453,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+443,Deficit/Partial Irrigation,4356.0,42.0667135,-85.1360882,279.0,Soybean,sandy loams,8.823047637939453,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+444,Deficit/Partial Irrigation,4127.0,42.0158813,-85.5477706,256.0,Soybean,sandy loams,8.823047637939453,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+445,Deficit/Partial Irrigation,4315.0,42.0158813,-85.5477706,256.0,Soybean,sandy loams,8.823047637939453,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+446,Deficit/Partial Irrigation,4356.0,42.0158813,-85.5477706,256.0,Soybean,sandy loams,8.823047637939453,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+447,Deficit/Partial Irrigation,14681.0,41.799217,-85.4191482,281.0,Maize,sandy loams,8.946345329284668,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+448,Deficit/Partial Irrigation,15183.0,41.799217,-85.4191482,281.0,Maize,sandy loams,8.946345329284668,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+449,Deficit/Partial Irrigation,13740.0,41.799217,-85.4191482,281.0,Maize,sandy loams,8.946345329284668,https://doi.org/10.3389/fagro.2025.1496198,2025-09-12 23:44:02,9.0
+450,Deficit/Partial Irrigation,5503.0,29.83333333333333,52.766666666666666,1810.0,Wheat,silty clay,0.96,https://doi.org/10.2166/ws.2021.246,2025-09-12 23:48:15,9.0
+451,Deficit/Partial Irrigation,4272.0,29.83333333333333,52.766666666666666,1810.0,Wheat,silty clay,0.95,https://doi.org/10.2166/ws.2021.246,2025-09-12 23:48:15,9.0
+452,Deficit/Partial Irrigation,4802.0,29.83333333333333,52.766666666666666,1810.0,Wheat,silty clay,0.94,https://doi.org/10.2166/ws.2021.246,2025-09-12 23:48:15,9.0
+453,Deficit/Partial Irrigation,4485.0,29.83333333333333,52.766666666666666,1810.0,Wheat,silty clay,0.85,https://doi.org/10.2166/ws.2021.246,2025-09-12 23:48:15,9.0
+454,Evapotranspiration-Based,6218.07,40.88333333333333,86.93333333333334,900.0,Fibers_Oilseeds,sandy loams,2.6,https://doi.org/10.3390/agronomy15071674,2025-09-13 00:18:02,9.0
+455,Deficit/Partial Irrigation,5660.59,40.88333333333333,86.93333333333334,900.0,Fibers_Oilseeds,sandy loams,1.58,https://doi.org/10.3390/agronomy15071674,2025-09-13 00:18:02,9.0
+456,Specialized Irrigation Delivery,6728.3,29.9382,70.1155,731.0,Maize,sandy clay loams,1.5619999999999998,https://doi.org/10.1016/j.agwat.2022.107829,2025-11-24 23:32:48,9.0
+457,Specialized Irrigation Delivery,6296.6,29.9382,70.1155,731.0,Maize,sandy clay loams,1.212,https://doi.org/10.1016/j.agwat.2022.107829,2025-11-24 23:32:48,9.0
+458,Specialized Irrigation Delivery,5563.2,29.9382,70.1155,731.0,Maize,sandy clay loams,0.612,https://doi.org/10.1016/j.agwat.2022.107829,2025-11-24 23:32:48,9.0
+459,Conventional/Fixed Scheduling,6135.2,29.9382,70.1155,731.0,Maize,sandy clay loams,0.513,https://doi.org/10.1016/j.agwat.2022.107829,2025-11-24 23:32:48,9.0
+489,Soil Moisture-Based,19000.0,-36.5,145.5,122.0,Vegetables,sandy loams,80.98,https://doi.org/10.1016/j.agwat.2019.06.005,2025-11-24 23:38:30,8.0
+490,Soil Moisture-Based,18000.0,-36.5,145.5,122.0,Vegetables,sandy loams,57.98,https://doi.org/10.1016/j.agwat.2019.06.005,2025-11-24 23:38:30,8.0
+491,Soil Moisture-Based,8000.0,-36.5,145.5,122.0,Vegetables,clay,62.34,https://doi.org/10.1016/j.agwat.2019.06.005,2025-11-24 23:38:30,8.0
+492,Soil Moisture-Based,7000.0,-36.5,145.5,122.0,Vegetables,clay,51.83,https://doi.org/10.1016/j.agwat.2019.06.005,2025-11-24 23:38:30,8.0
+493,Soil Moisture-Based,18900.0,-36.5,145.5,122.0,Vegetables,sandy loams,80.98,https://doi.org/10.1016/j.agwat.2019.06.005,2025-11-24 23:38:30,8.0
+494,Soil Moisture-Based,34969.260194999995,43.3541,-85.178,290.0,Roots_Tubers,sandy loams,10.011372566223145,https://doi.org/10.1016/j.agwat.2012.04.001,2025-11-24 23:40:32,9.0
+495,Soil Moisture-Based,41272.38157499999,43.3541,-85.178,290.0,Roots_Tubers,sandy loams,10.180791854858398,https://doi.org/10.1016/j.agwat.2012.04.001,2025-11-24 23:40:32,9.0
+498,Deficit/Partial Irrigation,8015.0,44.3079869,86.0549057,470.0,Wheat,sandy clay loams,1.35,https://doi.org/10.1016/j.agwat.2020.106002,2025-11-24 23:54:19,9.0
+499,Deficit/Partial Irrigation,10325.0,40.45,-104.64,1428.0,Maize,sandy clay loams,8.924722671508789,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+500,Deficit/Partial Irrigation,10355.0,40.45,-104.64,1428.0,Maize,sandy clay loams,8.924722671508789,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+501,Deficit/Partial Irrigation,8713.0,40.45,-104.64,1428.0,Maize,sandy clay loams,8.830930709838867,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+502,Deficit/Partial Irrigation,10324.0,40.45,-104.64,1428.0,Maize,sandy clay loams,8.924722671508789,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+503,Deficit/Partial Irrigation,10353.0,40.45,-104.64,1428.0,Maize,sandy clay loams,8.924722671508789,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+504,Deficit/Partial Irrigation,8636.0,40.45,-104.64,1428.0,Maize,sandy clay loams,8.830930709838867,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+505,Deficit/Partial Irrigation,6594.0,33.1190254,-88.5916703,66.0,Soybean,silty clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+506,Deficit/Partial Irrigation,6607.0,33.1190254,-88.5916703,66.0,Soybean,silty clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+507,Deficit/Partial Irrigation,6591.0,33.1190254,-88.5916703,66.0,Soybean,silty clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+508,Deficit/Partial Irrigation,6587.0,33.1190254,-88.5916703,66.0,Soybean,silty clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+509,Deficit/Partial Irrigation,6595.0,33.1190254,-88.5916703,66.0,Soybean,silty clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2005.02.016,2025-11-25 00:01:15,9.0
+510,Conventional/Fixed Scheduling,1678.29225,38.66666666666666,106.3,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+511,Conventional/Fixed Scheduling,1941.3759,38.66666666666666,106.3,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+512,Evapotranspiration-Based,2884.8483,38.66666666666666,106.3,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+515,Specialized Irrigation Delivery,7946.940599999999,-5.0,120.0,120.0,Vegetables,clay,10.912453651428224,https://doi.org/10.22069/ijpp.2017.3428,2025-11-25 00:16:05,8.0
+516,Specialized Irrigation Delivery,7856.2221,-5.0,120.0,120.0,Vegetables,clay,10.912453651428224,https://doi.org/10.22069/ijpp.2017.3428,2025-11-25 00:16:05,8.0
+517,Specialized Irrigation Delivery,5815.05585,-5.0,120.0,120.0,Vegetables,clay,10.871051788330078,https://doi.org/10.22069/ijpp.2017.3428,2025-11-25 00:16:05,8.0
+520,Evapotranspiration-Based,18461.21475,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,4.15,https://doi.org/10.1016/j.eja.2010.04.003,2025-11-25 00:21:09,8.0
+521,Deficit/Partial Irrigation,18805.94505,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,4.45,https://doi.org/10.1016/j.eja.2010.04.003,2025-11-25 00:21:09,8.0
+522,Deficit/Partial Irrigation,11802.47685,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,4.92,https://doi.org/10.1016/j.eja.2010.04.003,2025-11-25 00:21:09,8.0
+523,Evapotranspiration-Based,18805.94505,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,4.15,https://doi.org/10.1016/j.eja.2010.04.003,2025-11-25 00:21:09,8.0
+524,Deficit/Partial Irrigation,15276.9954,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,4.45,https://doi.org/10.1016/j.eja.2010.04.003,2025-11-25 00:21:09,8.0
+525,Deficit/Partial Irrigation,13281.1884,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,4.47,https://doi.org/10.1016/j.eja.2010.04.003,2025-11-25 00:21:09,8.0
+526,Evapotranspiration-Based,19994.3574,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,3.95,https://doi.org/10.1016/j.eja.2010.04.003,2025-11-25 00:21:09,8.0
+527,Deficit/Partial Irrigation,16029.95895,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,4.71,https://doi.org/10.1016/j.eja.2010.04.003,2025-11-25 00:21:09,8.0
+528,Deficit/Partial Irrigation,12891.09885,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,4.25,https://doi.org/10.1016/j.eja.2010.04.003,2025-11-25 00:21:09,8.0
+529,Evapotranspiration-Based,20611.2432,33.8333,10.64,30.0,Roots_Tubers,coarse sands,4.89,http://dx.doi.org/10.1016/S0378-3774(02)00110-5,2025-11-25 00:26:16,9.0
+530,Deficit/Partial Irrigation,14460.5289,33.8333,10.64,30.0,Roots_Tubers,coarse sands,7.07,http://dx.doi.org/10.1016/S0378-3774(02)00110-5,2025-11-25 00:26:16,9.0
+531,Deficit/Partial Irrigation,8382.3894,33.8333,10.64,30.0,Roots_Tubers,coarse sands,9.16,http://dx.doi.org/10.1016/S0378-3774(02)00110-5,2025-11-25 00:26:16,9.0
+532,Evapotranspiration-Based,22788.4872,33.8333,10.64,30.0,Roots_Tubers,coarse sands,5.9,http://dx.doi.org/10.1016/S0378-3774(02)00110-5,2025-11-25 00:26:16,9.0
+533,Deficit/Partial Irrigation,17871.5445,33.8333,10.64,30.0,Roots_Tubers,coarse sands,8.14,http://dx.doi.org/10.1016/S0378-3774(02)00110-5,2025-11-25 00:26:16,9.0
+534,Deficit/Partial Irrigation,10804.57335,33.8333,10.64,30.0,Roots_Tubers,coarse sands,12.31,http://dx.doi.org/10.1016/S0378-3774(02)00110-5,2025-11-25 00:26:16,9.0
+541,Evapotranspiration-Based,45940.0,45.35,11.95,7.0,Vegetables,silt loams,1.77,https://doi.org/10.1016/j.agwat.2020.106154,2025-11-25 00:57:24,9.0
+542,Evapotranspiration-Based,41940.0,45.35,11.95,7.0,Vegetables,silt loams,1.62,https://doi.org/10.1016/j.agwat.2020.106154,2025-11-25 00:57:24,9.0
+557,Deficit/Partial Irrigation,29900.0,14.149166666666666,38.28388888888889,1945.0,Vegetables,clay,4.702,https://doi.org/10.1016/j.agwat.2009.08.021,2025-11-25 01:19:20,8.0
+558,Evapotranspiration-Based,25570.0,14.149166666666666,38.28388888888889,1945.0,Vegetables,clay,9.966034889221191,https://doi.org/10.1016/j.agwat.2009.08.021,2025-11-25 01:19:20,8.0
+559,Deficit/Partial Irrigation,13700.0,14.149166666666666,38.28388888888889,1945.0,Vegetables,clay,8.848677635192871,https://doi.org/10.1016/j.agwat.2009.08.021,2025-11-25 01:19:20,8.0
+571,Soil Moisture-Based,39281.1105,6.66667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,18.1,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+572,Soil Moisture-Based,39099.6735,6.06667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,22.9,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+573,Soil Moisture-Based,38918.2365,6.66667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,31.4,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+574,Soil Moisture-Based,13063.464,6.66667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,16.5,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+575,Evapotranspiration-Based,39190.392,6.066666666666666,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,14.6,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+576,Evapotranspiration-Based,39008.955,6.066666666666666,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,18.7,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+577,Evapotranspiration-Based,38918.2365,6.066666666666666,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,25.8,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+578,Evapotranspiration-Based,13063.464,6.66667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,13.9,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+579,Soil Moisture-Based,38373.9255,6.66667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,13.82,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+580,Soil Moisture-Based,38192.4885,6.066666666666666,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,17.62,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+581,Soil Moisture-Based,38011.0515,6.066666666666666,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,24.5,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+582,Soil Moisture-Based,12156.279,6.66667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,12.88,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+583,Evapotranspiration-Based,38283.207,6.066666666666666,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,11.59,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+584,Evapotranspiration-Based,38101.77,6.66667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,12.02,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+585,Evapotranspiration-Based,38011.0515,6.66667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,21.16,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+586,Evapotranspiration-Based,12156.279,6.66667,37.55055555555556,1203.0,Roots_Tubers,sandy clay loams,11.55,https://doi.org/10.1080/07011784.2014.872864,2025-11-25 01:29:52,10.0
+598,Deficit/Partial Irrigation,1848.0,36.833333333333336,116.56666666666666,28.0,Wheat,silt loams,8.916229248046875,https://doi.org/10.1016/j.agwat.2009.07.009,2025-11-25 01:40:27,9.0
+599,Deficit/Partial Irrigation,4829.0,36.833333333333336,116.56666666666666,28.0,Wheat,silt loams,8.69219970703125,https://doi.org/10.1016/j.agwat.2009.07.009,2025-11-25 01:40:27,9.0
+600,Evapotranspiration-Based,4751.0,36.833333333333336,116.56666666666666,28.0,Wheat,silt loams,0.77,https://doi.org/10.1016/j.agwat.2009.07.009,2025-11-25 01:40:27,9.0
+601,Deficit/Partial Irrigation,5175.0,36.833333333333336,116.56666666666666,28.0,Maize,silt loams,8.69219970703125,https://doi.org/10.1016/j.agwat.2009.07.009,2025-11-25 01:40:27,9.0
+602,Deficit/Partial Irrigation,5716.0,36.833333333333336,116.56666666666666,28.0,Maize,silt loams,1.42,https://doi.org/10.1016/j.agwat.2009.07.009,2025-11-25 01:40:27,9.0
+603,Deficit/Partial Irrigation,5629.0,36.833333333333336,116.56666666666666,28.0,Maize,silt loams,1.44,https://doi.org/10.1016/j.agwat.2009.07.009,2025-11-25 01:40:27,9.0
+604,Evapotranspiration-Based,5715.0,36.833333333333336,116.56666666666666,28.0,Maize,silt loams,1.4300000000000002,https://doi.org/10.1016/j.agwat.2009.07.009,2025-11-25 01:40:27,9.0
+639,Evapotranspiration-Based,4500.0,33.333333333333336,36.43333333333333,600.0,Fibers_Oilseeds,sandy clay loams,0.588,https://doi.org/10.1111/j.1439-037X.2008.00340.x,2025-11-25 02:02:35,8.0
+640,Evapotranspiration-Based,4827.0,33.333333333333336,36.43333333333333,600.0,Fibers_Oilseeds,sandy clay loams,0.593,https://doi.org/10.1111/j.1439-037X.2008.00340.x,2025-11-25 02:02:35,8.0
+641,Deficit/Partial Irrigation,3091.1,33.333333333333336,36.43333333333333,600.0,Fibers_Oilseeds,sandy clay loams,0.513,https://doi.org/10.1111/j.1439-037X.2008.00340.x,2025-11-25 02:02:35,8.0
+642,Deficit/Partial Irrigation,3133.4,33.333333333333336,36.43333333333333,600.0,Fibers_Oilseeds,sandy clay loams,0.492,https://doi.org/10.1111/j.1439-037X.2008.00340.x,2025-11-25 02:02:35,8.0
+643,Deficit/Partial Irrigation,2740.2,33.333333333333336,36.43333333333333,600.0,Fibers_Oilseeds,sandy clay loams,0.457,https://doi.org/10.1111/j.1439-037X.2008.00340.x,2025-11-25 02:02:35,8.0
+644,Deficit/Partial Irrigation,2412.1,33.333333333333336,36.43333333333333,600.0,Fibers_Oilseeds,sandy clay loams,0.375,https://doi.org/10.1111/j.1439-037X.2008.00340.x,2025-11-25 02:02:35,8.0
+645,Evapotranspiration-Based,13400.0,38.93333333333333,106.81666666666666,1097.0,Hay,sandy loams,2.18,https://doi.org/10.1002/ird.59,2025-11-25 02:28:41,9.0
+646,Deficit/Partial Irrigation,13500.0,38.93333333333333,106.81666666666666,1097.0,Hay,sandy loams,2.68,https://doi.org/10.1002/ird.59,2025-11-25 02:28:41,9.0
+647,Deficit/Partial Irrigation,12100.0,38.93333333333333,106.81666666666666,1097.0,Hay,sandy loams,2.98,https://doi.org/10.1002/ird.59,2025-11-25 02:28:41,9.0
+648,Evapotranspiration-Based,13700.0,38.93333333333333,106.81666666666666,1097.0,Hay,sandy loams,2.19,https://doi.org/10.1002/ird.59,2025-11-25 02:28:41,9.0
+649,Deficit/Partial Irrigation,13700.0,38.93333333333333,106.81666666666666,1097.0,Hay,sandy loams,2.73,https://doi.org/10.1002/ird.59,2025-11-25 02:28:41,9.0
+650,Deficit/Partial Irrigation,12200.0,38.93333333333333,106.81666666666666,1097.0,Hay,sandy loams,2.96,https://doi.org/10.1002/ird.59,2025-11-25 02:28:41,9.0
+651,Deficit/Partial Irrigation,10015.3224,25.810999999999,-109.025,20.0,Maize,clay,2.29,https://doi.org/10.1016/j.agwat.2004.10.004,2025-11-25 02:30:00,9.0
+652,Deficit/Partial Irrigation,10024.39425,25.810999999999,-109.025,20.0,Maize,clay,2.29,https://doi.org/10.1016/j.agwat.2004.10.004,2025-11-25 02:30:00,9.0
+653,Deficit/Partial Irrigation,10378.1964,25.810999999999,-109.025,20.0,Maize,clay,2.29,https://doi.org/10.1016/j.agwat.2004.10.004,2025-11-25 02:30:00,9.0
+654,Evapotranspiration-Based,10768.28595,25.810999999999,-109.025,20.0,Maize,clay,1.61,https://doi.org/10.1016/j.agwat.2004.10.004,2025-11-25 02:30:00,9.0
+655,Evapotranspiration-Based,14870.000000000002,36.61666666666667,10.1403,64.0,Wheat,clay,8.946345329284668,https://doi.org/10.5539/sar.v4n1p26,2025-11-25 02:36:28,8.0
+656,Deficit/Partial Irrigation,9300.0,36.61666666666667,10.1403,64.0,Wheat,clay,8.733600616455078,https://doi.org/10.5539/sar.v4n1p26,2025-11-25 02:36:28,8.0
+657,Deficit/Partial Irrigation,4825.0,21.4977975,70.4418231,66.0,Wheat,sandy loams,8.594532012939453,https://doi.org/10.1016/j.agwat.2006.04.008,2025-11-25 02:41:44,9.0
+658,Deficit/Partial Irrigation,4015.0,21.4977975,70.4418231,66.0,Wheat,sandy loams,8.594532012939453,https://doi.org/10.1016/j.agwat.2006.04.008,2025-11-25 02:41:44,9.0
+659,Deficit/Partial Irrigation,2960.0,21.4977975,70.4418231,66.0,Wheat,sandy loams,8.594532012939453,https://doi.org/10.1016/j.agwat.2006.04.008,2025-11-25 02:41:44,9.0
+660,Deficit/Partial Irrigation,4195.0,21.4977975,70.4418231,66.0,Wheat,sandy loams,8.594532012939453,https://doi.org/10.1016/j.agwat.2006.04.008,2025-11-25 02:41:44,9.0
+661,Deficit/Partial Irrigation,4180.0,21.4977975,70.4418231,66.0,Wheat,sandy loams,8.594532012939453,https://doi.org/10.1016/j.agwat.2006.04.008,2025-11-25 02:41:44,9.0
+662,Deficit/Partial Irrigation,3750.0,21.4977975,70.4418231,66.0,Wheat,sandy loams,8.594532012939453,https://doi.org/10.1016/j.agwat.2006.04.008,2025-11-25 02:41:44,9.0
+663,Evapotranspiration-Based,71849.052,25.9833,85.6667,52.1,Perennials,sandy loams,10.760971069335938,https://doi.org/10.1016/j.agwat.2020.106549,2025-11-25 02:46:41,9.0
+664,Evapotranspiration-Based,86091.8565,25.9833,85.6667,52.1,Perennials,sandy loams,10.760971069335938,https://doi.org/10.1016/j.agwat.2020.106549,2025-11-25 02:46:41,9.0
+665,Evapotranspiration-Based,94256.5215,25.9833,85.6667,52.1,Perennials,sandy loams,10.760971069335938,https://doi.org/10.1016/j.agwat.2020.106549,2025-11-25 02:46:41,9.0
+666,Conventional/Fixed Scheduling,78380.784,25.9833,85.6667,52.1,Perennials,sandy loams,10.760971069335938,https://doi.org/10.1016/j.agwat.2020.106549,2025-11-25 02:46:41,9.0
+667,Conventional/Fixed Scheduling,74117.0145,25.9833,85.6667,52.1,Perennials,sandy loams,10.760971069335938,https://doi.org/10.1016/j.agwat.2020.106549,2025-11-25 02:46:41,9.0
+668,Conventional/Fixed Scheduling,93893.6475,25.9833,85.6667,52.1,Perennials,sandy loams,10.760971069335938,https://doi.org/10.1016/j.agwat.2020.106549,2025-11-25 02:46:41,9.0
+669,Conventional/Fixed Scheduling,89902.03349999999,25.9833,85.6667,52.1,Perennials,sandy loams,10.760971069335938,https://doi.org/10.1016/j.agwat.2020.106549,2025-11-25 02:46:41,9.0
+670,Soil Moisture-Based,7257.48,24.59125,73.738417,582.17,Vegetables,sandy loams,1.60571745,https://doi.org/10.54386/jam.v23i4.142,2025-11-25 02:48:22,9.0
+671,Evapotranspiration-Based,5715.2655,24.59125,73.738417,582.17,Vegetables,sandy loams,0.98883165,https://doi.org/10.54386/jam.v23i4.142,2025-11-25 02:48:22,9.0
+672,Soil Moisture-Based,8890.413,24.59125,73.738417,582.17,Vegetables,sandy loams,1.95044775,https://doi.org/10.54386/jam.v23i4.142,2025-11-25 02:48:22,9.0
+673,Evapotranspiration-Based,5805.984,24.59125,73.738417,582.17,Vegetables,sandy loams,0.907185,https://doi.org/10.54386/jam.v23i4.142,2025-11-25 02:48:22,9.0
+674,Evapotranspiration-Based,4173.051,24.59125,73.738417,582.17,Vegetables,sandy loams,0.40823325,https://doi.org/10.54386/jam.v23i4.142,2025-11-25 02:48:22,9.0
+675,Soil Moisture-Based,4173.051,24.59125,73.738417,582.17,Vegetables,sandy loams,0.40823325,https://doi.org/10.54386/jam.v23i4.142,2025-11-25 02:48:22,9.0
+676,Conventional/Fixed Scheduling,2482.965345,-8.1625,113.71616666666668,101.0,Soybean,sandy clay loams,1.92,https://doi.org/10.1002/ird.2073,2025-11-25 03:07:28,8.0
+677,Soil Moisture-Based,2463.91446,-8.162528,113.71616666666668,101.0,Soybean,sandy clay loams,1.47,https://doi.org/10.1002/ird.2073,2025-11-25 03:07:28,8.0
+678,Soil Moisture-Based,2425.81269,-8.162528,113.71616666666668,101.0,Soybean,sandy clay loams,1.96,https://doi.org/10.1002/ird.2073,2025-11-25 03:07:28,8.0
+679,Soil Moisture-Based,2140.049415,-8.162528,113.71616666666668,101.0,Soybean,sandy clay loams,2.75,https://doi.org/10.1002/ird.2073,2025-11-25 03:07:28,8.0
+680,Conventional/Fixed Scheduling,2055.0,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+681,Plant or Climate-Based,2952.0,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+682,Conventional/Fixed Scheduling,3613.9,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+683,Plant or Climate-Based,3522.5,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+684,Conventional/Fixed Scheduling,4001.0,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+685,Plant or Climate-Based,6578.0,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+686,Conventional/Fixed Scheduling,7070.8,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+687,Plant or Climate-Based,7168.9,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+688,Conventional/Fixed Scheduling,3019.0,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+689,Plant or Climate-Based,7190.0,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+690,Conventional/Fixed Scheduling,6773.3,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+691,Plant or Climate-Based,8137.4,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.635933876037598,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+692,Conventional/Fixed Scheduling,2902.0,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+693,Plant or Climate-Based,7215.8,34.7853,113.6398,103.0,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.07.009,2025-11-25 03:40:54,9.0
+694,Deficit/Partial Irrigation,2113.74105,-33.0,146.0,143.0,Soybean,sandy loams,0.53,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+695,Deficit/Partial Irrigation,2775.9861,-33.0,146.0,143.0,Soybean,sandy loams,0.45,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+696,Deficit/Partial Irrigation,3120.7164,-33.0,146.0,143.0,Soybean,sandy loams,0.4599999999999999,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+697,Evapotranspiration-Based,4544.99685,-33.0,146.0,143.0,Soybean,sandy loams,0.55,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+698,Deficit/Partial Irrigation,2576.4054,-33.0,146.0,143.0,Soybean,sandy loams,0.49,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+699,Deficit/Partial Irrigation,2866.7046,-33.0,146.0,143.0,Soybean,sandy loams,0.43,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+700,Deficit/Partial Irrigation,3193.2912,-33.0,146.0,143.0,Soybean,sandy loams,0.4599999999999999,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+701,Evapotranspiration-Based,4445.2065,-33.0,146.0,143.0,Soybean,sandy loams,0.5599999999999999,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+702,Deficit/Partial Irrigation,1623.86115,-33.0,146.0,143.0,Soybean,sandy loams,0.37,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+703,Deficit/Partial Irrigation,1796.2262999999998,-33.0,146.0,143.0,Soybean,sandy loams,0.32,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+704,Deficit/Partial Irrigation,2177.244,-33.0,146.0,143.0,Soybean,sandy loams,0.37,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+705,Evapotranspiration-Based,2694.33945,-33.0,146.0,143.0,Soybean,sandy loams,0.4,https://doi.org/10.2134/agronj2011.0150,2025-11-25 03:42:26,9.0
+722,Deficit/Partial Irrigation,8210.0,25.5325,-103.4325,1139.0,Fibers_Oilseeds,silty clay loams,0.707,https://doi.org/10.3390/agronomy12051246,2025-11-25 03:54:49,9.0
+723,Deficit/Partial Irrigation,6190.0,25.5325,-103.4325,1139.0,Fibers_Oilseeds,silty clay loams,0.612,https://doi.org/10.3390/agronomy12051246,2025-11-25 03:54:49,9.0
+724,Deficit/Partial Irrigation,8670.0,25.5325,-103.4325,1139.0,Fibers_Oilseeds,silty clay loams,0.897,https://doi.org/10.3390/agronomy12051246,2025-11-25 03:54:49,9.0
+725,Deficit/Partial Irrigation,5300.0,25.5325,-103.4325,1139.0,Fibers_Oilseeds,silty clay loams,0.61,https://doi.org/10.3390/agronomy12051246,2025-11-25 03:54:49,9.0
+726,Deficit/Partial Irrigation,7140.0,25.5325,-103.4325,1139.0,Fibers_Oilseeds,silty clay loams,0.767,https://doi.org/10.3390/agronomy12051246,2025-11-25 03:54:49,9.0
+727,Deficit/Partial Irrigation,7370.0,25.5325,-103.4325,1139.0,Fibers_Oilseeds,silty clay loams,0.945,https://doi.org/10.3390/agronomy12051246,2025-11-25 03:54:49,9.0
+728,Deficit/Partial Irrigation,5890.0,25.5325,-103.4325,1139.0,Fibers_Oilseeds,silty clay loams,0.83,https://doi.org/10.3390/agronomy12051246,2025-11-25 03:54:49,9.0
+763,Deficit/Partial Irrigation,15730.0,40.44916666666666,-104.63667,1427.0,Maize,fine sands,9.768288612365724,https://doi.org/10.1016/j.fcr.2004.01.005,2025-11-25 04:49:07,9.0
+764,Deficit/Partial Irrigation,12670.0,40.44916666666666,-104.63667,1427.0,Maize,fine sands,8.946345329284668,https://doi.org/10.1016/j.fcr.2004.01.005,2025-11-25 04:49:07,9.0
+765,Deficit/Partial Irrigation,8100.0,40.44916666666666,-104.63667,1427.0,Maize,fine sands,8.830930709838867,https://doi.org/10.1016/j.fcr.2004.01.005,2025-11-25 04:49:07,9.0
+778,Specialized Irrigation Delivery,1784.01,18.35,18.47,1866.0,Legumes_Grains,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.apsoil.2021.104134,2025-11-25 05:17:26,8.0
+779,Specialized Irrigation Delivery,2131.51,18.35,18.47,1866.0,Legumes_Grains,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.apsoil.2021.104134,2025-11-25 05:17:26,8.0
+780,Specialized Irrigation Delivery,1065.91,18.35,18.47,1866.0,Legumes_Grains,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.apsoil.2021.104134,2025-11-25 05:17:26,8.0
+781,Specialized Irrigation Delivery,1284.15,18.35,18.47,1866.0,Legumes_Grains,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.apsoil.2021.104134,2025-11-25 05:17:26,8.0
+782,Specialized Irrigation Delivery,1987.17,18.35,18.47,1866.0,Legumes_Grains,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.apsoil.2021.104134,2025-11-25 05:17:26,8.0
+783,Specialized Irrigation Delivery,1441.53,18.35,18.47,1866.0,Legumes_Grains,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.apsoil.2021.104134,2025-11-25 05:17:26,8.0
+784,Specialized Irrigation Delivery,1540.37,18.35,18.47,1866.0,Legumes_Grains,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.apsoil.2021.104134,2025-11-25 05:17:26,8.0
+785,Specialized Irrigation Delivery,1702.83,18.35,18.47,1866.0,Legumes_Grains,sandy clay loams,8.594532012939453,https://doi.org/10.1016/j.apsoil.2021.104134,2025-11-25 05:17:26,8.0
+789,Specialized Irrigation Delivery,2500.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,9.08986759185791,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+790,Specialized Irrigation Delivery,1200.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,9.08986759185791,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+791,Specialized Irrigation Delivery,1500.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,9.08986759185791,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+792,Deficit/Partial Irrigation,3000.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,4.4,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+793,Deficit/Partial Irrigation,2100.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,17.1,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+794,Deficit/Partial Irrigation,1800.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,17.1,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+795,Evapotranspiration-Based,3800.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,1.7,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+796,Evapotranspiration-Based,2800.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,0.5,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+797,Evapotranspiration-Based,3100.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,20.8,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+798,Evapotranspiration-Based,3900.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,0.6,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+799,Evapotranspiration-Based,3000.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,0.4,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+800,Evapotranspiration-Based,2600.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,18.9,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+801,Evapotranspiration-Based,4100.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,0.6,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+802,Evapotranspiration-Based,2800.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,0.3,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+803,Evapotranspiration-Based,3600.0,41.893036,-103.684017,1189.0,Legumes_Grains,fine sands,17.0,https://doi.org/10.1007/s00271-010-0220-x,2025-11-25 05:47:42,9.0
+804,Deficit/Partial Irrigation,91.488488,7.217,37.595,1459.0,Vegetables,sandy clay loams,2.21,https://doi.org/10.1080/23311932.2024.2313045,2025-11-25 05:48:41,9.0
+805,Conventional/Fixed Scheduling,83.28320000000001,7.217,37.595,1459.0,Vegetables,sandy clay loams,1.62,https://doi.org/10.1080/23311932.2024.2313045,2025-11-25 05:48:41,9.0
+806,Evapotranspiration-Based,11283.0,35.18333333333333,-102.1,1170.0,Maize,silty clay loams,1.345,https://doi.org/10.13031/2013.27918,2025-11-25 06:04:01,8.0
+807,Evapotranspiration-Based,13195.0,35.18333333333333,-102.1,1170.0,Maize,silty clay loams,1.376,https://doi.org/10.13031/2013.27918,2025-11-25 06:04:01,8.0
+808,Conventional/Fixed Scheduling,813.0,35.18333333333333,-102.1,1170.0,Maize,silty clay loams,0.216,https://doi.org/10.13031/2013.27918,2025-11-25 06:04:01,8.0
+809,Conventional/Fixed Scheduling,4829.0,35.18333333333333,-102.1,1170.0,Maize,silty clay loams,1.251,https://doi.org/10.13031/2013.27918,2025-11-25 06:04:01,8.0
+818,Conventional/Fixed Scheduling,11300.0,34.2453,-79.807222,41.0,Maize,clay,2.1,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+819,Conventional/Fixed Scheduling,10200.0,34.2453,-79.807222,41.0,Maize,clay,1.98,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+820,Conventional/Fixed Scheduling,10400.0,34.2453,-79.807222,41.0,Maize,clay,1.7,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+821,Conventional/Fixed Scheduling,10100.0,34.2453,-79.807222,41.0,Maize,clay,1.89,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+822,Soil Moisture-Based,11700.0,34.2453,-79.807222,41.0,Maize,clay,2.13,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+823,Soil Moisture-Based,10800.0,34.2453,-79.807222,41.0,Maize,clay,2.08,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+824,Soil Moisture-Based,10100.0,34.2453,-79.807222,41.0,Maize,clay,1.66,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+825,Soil Moisture-Based,9800.0,34.2453,-79.807222,41.0,Maize,clay,2.054,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+826,Soil Moisture-Based,10700.0,34.2453,-79.807222,41.0,Maize,clay,1.78,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+827,Soil Moisture-Based,11300.0,34.2453,-79.807222,41.0,Maize,clay,2.15,https://doi.org/10.13031/trans.59.11165,2025-11-25 06:07:51,8.0
+840,Deficit/Partial Irrigation,7894.0,37.1,10.5,328.0,Wheat,sandy clay loams,8.733600616455078,https://doi.org/10.1016/j.agwat.2016.05.029,2025-11-25 07:01:47,9.0
+841,Deficit/Partial Irrigation,7597.0,37.1,10.5,328.0,Wheat,sandy clay loams,8.733600616455078,https://doi.org/10.1016/j.agwat.2016.05.029,2025-11-25 07:01:47,9.0
+842,Deficit/Partial Irrigation,6651.0,37.1,10.5,328.0,Wheat,sandy clay loams,8.69219970703125,https://doi.org/10.1016/j.agwat.2016.05.029,2025-11-25 07:01:47,9.0
+843,Deficit/Partial Irrigation,7452.000000000001,37.1,10.5,328.0,Wheat,sandy clay loams,8.733600616455078,https://doi.org/10.1016/j.agwat.2016.05.029,2025-11-25 07:01:47,9.0
+844,Deficit/Partial Irrigation,7387.0,37.1,10.5,328.0,Wheat,sandy clay loams,8.733600616455078,https://doi.org/10.1016/j.agwat.2016.05.029,2025-11-25 07:01:47,9.0
+845,Deficit/Partial Irrigation,6351.0,37.1,10.5,328.0,Wheat,sandy clay loams,8.69219970703125,https://doi.org/10.1016/j.agwat.2016.05.029,2025-11-25 07:01:47,9.0
+846,Conventional/Fixed Scheduling,2588.9999999999995,37.1,10.5,328.0,Wheat,sandy clay loams,8.916229248046875,https://doi.org/10.1016/j.agwat.2016.05.029,2025-11-25 07:01:47,9.0
+847,Conventional/Fixed Scheduling,2698.0,37.1,10.5,328.0,Wheat,sandy clay loams,8.916229248046875,https://doi.org/10.1016/j.agwat.2016.05.029,2025-11-25 07:01:47,9.0
+848,Conventional/Fixed Scheduling,2086.0,37.1,10.5,328.0,Wheat,sandy clay loams,8.916229248046875,https://doi.org/10.1016/j.agwat.2016.05.029,2025-11-25 07:01:47,9.0
+852,Evapotranspiration-Based,5362.0,30.616,31.783,14.0,Legumes_Grains,clay,1.31,https://doi.org/10.1016/j.scienta.2011.03.035,2025-11-25 07:12:52,8.0
+853,Deficit/Partial Irrigation,4221.0,30.616,31.783,14.0,Legumes_Grains,clay,1.5,https://doi.org/10.1016/j.scienta.2011.03.035,2025-11-25 07:12:52,8.0
+907,Evapotranspiration-Based,2902.992,-15.59875,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+908,Deficit/Partial Irrigation,2086.5255,-15.59875,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+909,Deficit/Partial Irrigation,2540.1179999999995,-15.59875,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+910,Deficit/Partial Irrigation,1995.807,-15.59875,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+911,Deficit/Partial Irrigation,1814.37,-15.59875,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+912,Evapotranspiration-Based,5080.235999999999,-15.59875,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+913,Deficit/Partial Irrigation,3628.74,-15.598694444444446,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+914,Deficit/Partial Irrigation,4445.2065,-15.59875,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+915,Deficit/Partial Irrigation,4445.2065,-15.598694444444446,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+916,Deficit/Partial Irrigation,4717.362,-15.59875,-47.7075,976.0,Soybean,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2019.03.003,2025-11-25 07:22:59,8.0
+949,Deficit/Partial Irrigation,2200.0,-22.7383,-47.6509,539.0,Soybean,sandy loams,1.17,https://doi.org/10.1016/j.scitotenv.2017.07.158,2025-11-25 07:32:36,9.0
+950,Deficit/Partial Irrigation,2300.0,-22.7383,-47.6509,539.0,Soybean,sandy loams,0.99,https://doi.org/10.1016/j.scitotenv.2017.07.158,2025-11-25 07:32:36,9.0
+951,Deficit/Partial Irrigation,2600.0,-22.7383,-47.6509,539.0,Soybean,sandy loams,0.94,https://doi.org/10.1016/j.scitotenv.2017.07.158,2025-11-25 07:32:36,9.0
+952,Deficit/Partial Irrigation,3000.0,-22.7383,-47.6509,539.0,Soybean,sandy loams,0.96,https://doi.org/10.1016/j.scitotenv.2017.07.158,2025-11-25 07:32:36,9.0
+953,Deficit/Partial Irrigation,3500.0,-22.7383,-47.6509,539.0,Soybean,sandy loams,0.97,https://doi.org/10.1016/j.scitotenv.2017.07.158,2025-11-25 07:32:36,9.0
+954,Deficit/Partial Irrigation,3400.0,-22.7383,-47.6509,539.0,Soybean,sandy loams,0.83,https://doi.org/10.1016/j.scitotenv.2017.07.158,2025-11-25 07:32:36,9.0
+955,Evapotranspiration-Based,4400.0,-22.7383,-47.6509,539.0,Soybean,sandy loams,0.88,https://doi.org/10.1016/j.scitotenv.2017.07.158,2025-11-25 07:32:36,9.0
+956,Evapotranspiration-Based,3300.0,-22.7383,-47.6509,539.0,Soybean,sandy loams,0.61,https://doi.org/10.1016/j.scitotenv.2017.07.158,2025-11-25 07:32:36,9.0
+961,Soil Moisture-Based,26090.6406,37.94,34.96,1299.0,Roots_Tubers,sandy loams,9.97344970703125,https://doi.org/10.1038/s41598-023-36934-3,2025-11-25 07:43:21,9.0
+962,Soil Moisture-Based,22189.7451,37.94,34.96,1299.0,Roots_Tubers,sandy loams,9.825804710388184,https://doi.org/10.1038/s41598-023-36934-3,2025-11-25 07:43:21,9.0
+963,Soil Moisture-Based,16383.761099999998,37.94,34.96,1299.0,Roots_Tubers,sandy clay loams,9.768288612365724,https://doi.org/10.1038/s41598-023-36934-3,2025-11-25 07:43:21,9.0
+964,Soil Moisture-Based,24348.8454,37.94,34.96,1299.0,Roots_Tubers,sandy loams,9.825804710388184,https://doi.org/10.1038/s41598-023-36934-3,2025-11-25 07:43:21,9.0
+965,Soil Moisture-Based,21781.51185,37.94,34.96,1299.0,Roots_Tubers,sandy loams,9.825804710388184,https://doi.org/10.1038/s41598-023-36934-3,2025-11-25 07:43:21,9.0
+966,Soil Moisture-Based,14651.037749999998,37.94,34.96,1299.0,Roots_Tubers,sandy clay loams,8.946345329284668,https://doi.org/10.1038/s41598-023-36934-3,2025-11-25 07:43:21,9.0
+973,Evapotranspiration-Based,10223.0,39.4,100.35,1360.0,Maize,coarse sands,1.07,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+974,Deficit/Partial Irrigation,9086.0,39.4,100.35,1360.0,Maize,coarse sands,1.06,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+975,Deficit/Partial Irrigation,9008.0,39.4,100.35,1360.0,Maize,coarse sands,1.2,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+976,Evapotranspiration-Based,10871.0,39.4,100.35,1360.0,Maize,coarse sands,1.13,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+977,Deficit/Partial Irrigation,9280.0,39.4,100.35,1360.0,Maize,coarse sands,1.09,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+978,Deficit/Partial Irrigation,8867.0,39.4,100.35,1360.0,Maize,coarse sands,1.18,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+979,Evapotranspiration-Based,11575.0,39.4,100.35,1360.0,Maize,loamy sands,1.38,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+980,Deficit/Partial Irrigation,10116.0,39.4,100.35,1360.0,Maize,loamy sands,1.35,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+981,Deficit/Partial Irrigation,9620.0,39.4,100.35,1360.0,Maize,loamy sands,1.46,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+982,Evapotranspiration-Based,12172.0,39.4,100.35,1360.0,Maize,sandy loams,1.69,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+983,Deficit/Partial Irrigation,10962.0,39.4,100.35,1360.0,Maize,sandy loams,1.7,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+984,Deficit/Partial Irrigation,9511.0,39.4,100.35,1360.0,Maize,sandy loams,1.67,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+985,Evapotranspiration-Based,14897.0,39.4,100.35,1360.0,Maize,sandy loams,2.48,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+986,Deficit/Partial Irrigation,12232.0,39.4,100.35,1360.0,Maize,sandy loams,2.27,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+987,Deficit/Partial Irrigation,12350.0,39.4,100.35,1360.0,Maize,sandy loams,2.57,https://doi.org/10.1038/s41598-019-41447-z,2025-11-25 07:48:54,8.0
+1115,Evapotranspiration-Based,22246.0,30.9,75.8,247.0,Vegetables,sandy loams,5.82,https://doi.org/10.17485/ijst/2014/v7i6.2,2025-11-25 08:51:24,9.0
+1116,Evapotranspiration-Based,28811.0,30.9,75.8,247.0,Vegetables,sandy loams,6.12,https://doi.org/10.17485/ijst/2014/v7i6.2,2025-11-25 08:51:24,9.0
+1117,Evapotranspiration-Based,27695.0,30.9,75.8,247.0,Vegetables,sandy loams,4.96,https://doi.org/10.17485/ijst/2014/v7i6.2,2025-11-25 08:51:24,9.0
+1118,Specialized Irrigation Delivery,22048.0,30.9,75.8,247.0,Vegetables,sandy loams,2.82,https://doi.org/10.17485/ijst/2014/v7i6.2,2025-11-25 08:51:24,9.0
+1119,Specialized Irrigation Delivery,21542.0,30.9,75.8,247.0,Vegetables,sandy loams,2.76,https://doi.org/10.17485/ijst/2014/v7i6.2,2025-11-25 08:51:24,9.0
+1193,Evapotranspiration-Based,42365.5395,8.95,37.86666666666667,2225.0,Vegetables,clay,7.7,https://doi.org/10.4172/2168-9768.1000203,2025-11-25 09:26:24,9.0
+1194,Deficit/Partial Irrigation,39190.392,8.95,37.86666666666667,2225.0,Vegetables,clay,10.8,https://doi.org/10.4172/2168-9768.1000203,2025-11-25 09:26:24,9.0
+1195,Deficit/Partial Irrigation,34019.4375,8.95,37.86666666666667,2225.0,Vegetables,clay,10.4,https://doi.org/10.4172/2168-9768.1000203,2025-11-25 09:26:24,9.0
+1196,Deficit/Partial Irrigation,28394.8905,8.95,37.86666666666667,2225.0,Vegetables,clay,10.6,https://doi.org/10.4172/2168-9768.1000203,2025-11-25 09:26:24,9.0
+1197,Deficit/Partial Irrigation,35470.9335,8.95,37.86666666666667,2225.0,Vegetables,clay,13.1,https://doi.org/10.4172/2168-9768.1000203,2025-11-25 09:26:24,9.0
+1198,Deficit/Partial Irrigation,29755.667999999994,8.95,37.86666666666667,2225.0,Vegetables,clay,12.3,https://doi.org/10.4172/2168-9768.1000203,2025-11-25 09:26:24,9.0
+1199,Deficit/Partial Irrigation,25582.617,8.95,37.86666666666667,2225.0,Vegetables,clay,11.7,https://doi.org/10.4172/2168-9768.1000203,2025-11-25 09:26:24,9.0
+1200,Deficit/Partial Irrigation,23133.2175,8.95,37.86666666666667,2225.0,Vegetables,clay,12.9,https://doi.org/10.4172/2168-9768.1000203,2025-11-25 09:26:24,9.0
+1201,Deficit/Partial Irrigation,26943.3945,8.95,37.86666666666667,2225.0,Vegetables,clay,14.9,https://doi.org/10.4172/2168-9768.1000203,2025-11-25 09:26:24,9.0
+1202,Soil Moisture-Based,20828.9676,5.3,37.083333333333336,550.0,Vegetables,sandy clay loams,4.85,https://doi.org/10.1016/j.agwat.2017.11.026,2025-11-25 09:32:01,9.0
+1203,Soil Moisture-Based,27660.07065,5.3,37.083333333333336,550.0,Vegetables,sandy clay loams,6.45,https://doi.org/10.1016/j.agwat.2017.11.026,2025-11-25 09:32:01,9.0
+1204,Soil Moisture-Based,27868.7232,5.3,37.083333333333336,550.0,Vegetables,sandy clay loams,6.5,https://doi.org/10.1016/j.agwat.2017.11.026,2025-11-25 09:32:01,9.0
+1205,Soil Moisture-Based,22325.82285,5.3,37.083333333333336,550.0,Vegetables,sandy clay loams,5.2,https://doi.org/10.1016/j.agwat.2017.11.026,2025-11-25 09:32:01,9.0
+1206,Soil Moisture-Based,13789.211999999998,5.3,37.083333333333336,550.0,Vegetables,sandy clay loams,3.21,https://doi.org/10.1016/j.agwat.2017.11.026,2025-11-25 09:32:01,9.0
+1207,Evapotranspiration-Based,23223.936,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,7.6,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1208,Deficit/Partial Irrigation,19413.759,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,6.8,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1209,Deficit/Partial Irrigation,18960.1665,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,7.0,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1210,Deficit/Partial Irrigation,22861.062,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,9.0,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1211,Evapotranspiration-Based,38918.2365,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,11.4,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1212,Deficit/Partial Irrigation,28757.7645,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,9.5,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1213,Deficit/Partial Irrigation,37376.022,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,13.4,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1214,Deficit/Partial Irrigation,34291.59299999999,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,12.8,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1215,Evapotranspiration-Based,35470.9335,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,11.4,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1216,Deficit/Partial Irrigation,27669.1425,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,10.2,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1217,Deficit/Partial Irrigation,32840.097,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,12.9,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1218,Deficit/Partial Irrigation,29483.5125,37.0,10.0,28.0,Roots_Tubers,sandy clay loams,12.7,https://doi.org/10.5539/jas.v8n7p129,2025-11-25 10:36:14,9.0
+1225,Evapotranspiration-Based,19750.0,30.90015,75.85229,250.0,Vines,clay,8.21,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+1226,Deficit/Partial Irrigation,19110.0,30.90015,75.85229,250.0,Vines,clay,9.84,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+1227,Deficit/Partial Irrigation,16880.0,30.90015,75.85229,250.0,Vines,clay,11.59,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+1228,Evapotranspiration-Based,19750.0,30.90015,75.85229,250.0,Vines,clay,8.21,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+1229,Deficit/Partial Irrigation,19110.0,30.90015,75.85229,250.0,Vines,clay,9.84,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+1230,Deficit/Partial Irrigation,16880.0,30.90015,75.85229,250.0,Vines,clay,11.59,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+1231,Conventional/Fixed Scheduling,2000.0,25.27055555555556,49.73027777777778,150.0,Legumes_Grains,fine sands,8.594532012939453,https://doi.org/10.1016/S0378-3774(98)00069-9,2025-11-25 11:15:11,8.0
+1232,Conventional/Fixed Scheduling,2500.0,25.27055555555556,49.73027777777778,150.0,Legumes_Grains,fine sands,8.594532012939453,https://doi.org/10.1016/S0378-3774(98)00069-9,2025-11-25 11:15:11,8.0
+1233,Conventional/Fixed Scheduling,2150.0,25.27055555555556,49.73027777777778,150.0,Legumes_Grains,fine sands,8.594532012939453,https://doi.org/10.1016/S0378-3774(98)00069-9,2025-11-25 11:15:11,8.0
+1250,Evapotranspiration-Based,490.667,35.91,10.55,19.0,Legumes_Grains,sandy clay loams,149.9,https://doi.org/10.36253/ijam-1261,2025-11-25 11:51:07,9.0
+1251,Deficit/Partial Irrigation,414.667,35.91,10.55,19.0,Legumes_Grains,sandy clay loams,168.9,https://doi.org/10.36253/ijam-1261,2025-11-25 11:51:07,9.0
+1252,Deficit/Partial Irrigation,220.229,35.91,10.55,19.0,Legumes_Grains,sandy clay loams,134.6,https://doi.org/10.36253/ijam-1261,2025-11-25 11:51:07,9.0
+1253,Evapotranspiration-Based,3062.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.32,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1254,Evapotranspiration-Based,3001.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.33,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1255,Evapotranspiration-Based,3062.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.33,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1256,Evapotranspiration-Based,2052.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.21,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1257,Evapotranspiration-Based,1938.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.25,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1258,Evapotranspiration-Based,2265.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.21,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1259,Evapotranspiration-Based,3305.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.33,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1260,Evapotranspiration-Based,1125.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.16,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1261,Evapotranspiration-Based,1305.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.18,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1262,Evapotranspiration-Based,1451.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.2,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1263,Evapotranspiration-Based,2185.0,29.933333333333334,52.03333333333333,1810.0,Legumes_Grains,silty clay loams,0.23,https://doi.org/10.1016/0378-4290(91)90040-3,2025-11-25 11:53:06,9.0
+1266,Evapotranspiration-Based,3677.0,36.333333333333336,59.583333333333336,950.0,Legumes_Grains,sandy clay loams,8.69219970703125,https://doi.org/10.36253/ijam-1136,2025-11-25 12:00:52,9.0
+1267,Plant or Climate-Based,1762.1,36.16666666666666,58.833333333333336,1250.0,Legumes_Grains,sandy clay loams,8.916229248046875,https://doi.org/10.36253/ijam-1136,2025-11-25 12:00:52,9.0
+1268,Plant or Climate-Based,3571.9999999999995,36.333333333333336,59.583333333333336,950.0,Legumes_Grains,sandy clay loams,8.69219970703125,https://doi.org/10.36253/ijam-1136,2025-11-25 12:00:52,9.0
+1269,Plant or Climate-Based,3446.0,36.333333333333336,59.583333333333336,950.0,Legumes_Grains,sandy clay loams,8.69219970703125,https://doi.org/10.36253/ijam-1136,2025-11-25 12:00:52,9.0
+1285,Evapotranspiration-Based,86908.32299999999,34.333333333333336,108.06666666666666,521.0,Vegetables,sandy clay loams,10.740839958190918,https://doi.org/10.1038/s41598-017-00373-8,2025-11-25 12:13:25,9.0
+1305,Evapotranspiration-Based,3770.0,36.9,80.61666666666667,1473.0,Fibers_Oilseeds,coarse sands,0.613,https://doi.org/10.1016/j.agwat.2020.106672,2025-11-25 13:42:02,9.0
+1306,Deficit/Partial Irrigation,4110.0,36.9,80.61666666666667,1473.0,Fibers_Oilseeds,coarse sands,0.6679999999999999,https://doi.org/10.1016/j.agwat.2020.106672,2025-11-25 13:42:02,9.0
+1307,Deficit/Partial Irrigation,4540.0,36.9,80.61666666666667,1473.0,Fibers_Oilseeds,coarse sands,0.761,https://doi.org/10.1016/j.agwat.2020.106672,2025-11-25 13:42:02,9.0
+1308,Deficit/Partial Irrigation,3930.0,36.9,80.61666666666666,1473.0,Fibers_Oilseeds,coarse sands,0.663,https://doi.org/10.1016/j.agwat.2020.106672,2025-11-25 13:42:02,9.0
+1309,Deficit/Partial Irrigation,3770.0,36.9,80.61666666666667,1473.0,Fibers_Oilseeds,coarse sands,0.613,https://doi.org/10.1016/j.agwat.2020.106672,2025-11-25 13:42:02,9.0
+1310,Deficit/Partial Irrigation,3530.0,36.9,80.61666666666667,1473.0,Fibers_Oilseeds,coarse sands,0.58,https://doi.org/10.1016/j.agwat.2020.106672,2025-11-25 13:42:02,9.0
+1311,Deficit/Partial Irrigation,2670.0,36.9,80.61666666666667,1473.0,Fibers_Oilseeds,coarse sands,0.428,https://doi.org/10.1016/j.agwat.2020.106672,2025-11-25 13:42:02,9.0
+1529,Conventional/Fixed Scheduling,5981.0,38.85,100.81,1200.0,Wheat,sandy loams,1.13,http://dx.doi.org/10.1007/s002710000019,2025-11-25 14:57:31,8.0
+1530,Conventional/Fixed Scheduling,5981.0,38.85,100.81,1200.0,Wheat,sandy loams,1.29,http://dx.doi.org/10.1007/s002710000019,2025-11-25 14:57:31,8.0
+1531,Conventional/Fixed Scheduling,6154.0,38.85,100.81,1200.0,Wheat,sandy loams,1.31,http://dx.doi.org/10.1007/s002710000019,2025-11-25 14:57:31,8.0
+1532,Conventional/Fixed Scheduling,6128.0,38.85,100.81,1200.0,Wheat,sandy loams,1.12,http://dx.doi.org/10.1007/s002710000019,2025-11-25 14:57:31,8.0
+1533,Conventional/Fixed Scheduling,6128.0,38.85,100.81,1200.0,Wheat,sandy loams,1.4,http://dx.doi.org/10.1007/s002710000019,2025-11-25 14:57:31,8.0
+1534,Conventional/Fixed Scheduling,6354.0,38.85,100.81,1200.0,Wheat,sandy loams,1.37,http://dx.doi.org/10.1007/s002710000019,2025-11-25 14:57:31,8.0
+1535,Soil Moisture-Based,6314.0,38.85,100.81,1200.0,Wheat,sandy loams,1.31,http://dx.doi.org/10.1007/s002710000019,2025-11-25 14:57:31,8.0
+1536,Soil Moisture-Based,6314.0,38.85,100.81,1200.0,Wheat,sandy loams,1.67,http://dx.doi.org/10.1007/s002710000019,2025-11-25 14:57:31,8.0
+1537,Soil Moisture-Based,6297.0,38.85,100.81,1200.0,Wheat,sandy loams,1.52,http://dx.doi.org/10.1007/s002710000019,2025-11-25 14:57:31,8.0
+1550,Evapotranspiration-Based,6714.8,14.3,38.72,1782.0,Maize,loamy sands,1.778,https://doi.org/10.3126/jnarc.v6i0.28124,2025-11-25 15:18:51,8.0
+1551,Deficit/Partial Irrigation,4548.6,14.3,38.72,1782.0,Maize,loamy sands,1.607,https://doi.org/10.3126/jnarc.v6i0.28124,2025-11-25 15:18:51,8.0
+1552,Deficit/Partial Irrigation,4310.8,14.3,38.72,1782.0,Maize,loamy sands,2.288,https://doi.org/10.3126/jnarc.v6i0.28124,2025-11-25 15:18:51,8.0
+1553,Evapotranspiration-Based,3075.2,14.3,38.72,1782.0,Maize,loamy sands,0.815,https://doi.org/10.3126/jnarc.v6i0.28124,2025-11-25 15:18:51,8.0
+1554,Deficit/Partial Irrigation,3964.5,14.3,38.72,1782.0,Maize,loamy sands,1.4,https://doi.org/10.3126/jnarc.v6i0.28124,2025-11-25 15:18:51,8.0
+1555,Deficit/Partial Irrigation,2647.5,14.3,38.72,1782.0,Maize,loamy sands,1.402,https://doi.org/10.3126/jnarc.v6i0.28124,2025-11-25 15:18:51,8.0
+1556,Evapotranspiration-Based,7323.3,14.3,38.72,1782.0,Maize,loamy sands,0.972,https://doi.org/10.3126/jnarc.v6i0.28124,2025-11-25 15:18:51,8.0
+1557,Deficit/Partial Irrigation,5238.2,14.3,38.72,1782.0,Maize,loamy sands,0.925,https://doi.org/10.3126/jnarc.v6i0.28124,2025-11-25 15:18:51,8.0
+1558,Deficit/Partial Irrigation,4032.3,14.3,38.72,1782.0,Maize,loamy sands,1.068,https://doi.org/10.3126/jnarc.v6i0.28124,2025-11-25 15:18:51,8.0
+1569,Soil Moisture-Based,9888.3165,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.97,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1570,Soil Moisture-Based,9434.724,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.96,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1571,Soil Moisture-Based,8890.413,-2.1166666666666667,37.72833333333333,975.0,Maize,sandy loams,1.98,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1572,Soil Moisture-Based,8164.664999999999,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.06,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1573,Conventional/Fixed Scheduling,7620.354,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.2,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1574,Soil Moisture-Based,9253.286999999998,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.3,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1575,Soil Moisture-Based,8255.3835,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.37,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1576,Soil Moisture-Based,7711.072499999999,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.48,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1577,Soil Moisture-Based,5443.11,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.98,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1578,Conventional/Fixed Scheduling,2721.555,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.66,https://doi.org/10.56369/tsaes.3966,2025-11-25 15:47:59,9.0
+1584,Soil Moisture-Based,4345.41615,32.55,35.85,589.0,Wheat,silty clay,1.13,https://doi.org/10.3390/agriculture8050067,2025-11-25 15:52:38,9.0
+1585,Soil Moisture-Based,3719.4584999999993,32.55,35.85,589.0,Wheat,silty clay,1.07,https://doi.org/10.3390/agriculture8050067,2025-11-25 15:52:38,9.0
+1586,Soil Moisture-Based,3456.37485,32.55,35.85,589.0,Wheat,silty clay,1.07,https://doi.org/10.3390/agriculture8050067,2025-11-25 15:52:38,9.0
+1587,Conventional/Fixed Scheduling,2032.0944,32.55,35.85,589.0,Wheat,silty clay,0.82,https://doi.org/10.3390/agriculture8050067,2025-11-25 15:52:38,9.0
+1588,Soil Moisture-Based,3882.7518,32.55,35.85,589.0,Wheat,silty clay,0.93,https://doi.org/10.3390/agriculture8050067,2025-11-25 15:52:38,9.0
+1589,Soil Moisture-Based,3147.93195,32.55,35.85,589.0,Wheat,silty clay,0.95,https://doi.org/10.3390/agriculture8050067,2025-11-25 15:52:38,9.0
+1590,Soil Moisture-Based,3020.92605,32.55,35.85,589.0,Wheat,silty clay,0.91,https://doi.org/10.3390/agriculture8050067,2025-11-25 15:52:38,9.0
+1591,Conventional/Fixed Scheduling,3528.94965,32.55,35.85,589.0,Wheat,silty clay,0.97,https://doi.org/10.3390/agriculture8050067,2025-11-25 15:52:38,9.0
+1592,Deficit/Partial Irrigation,132902.60249999998,-21.247222,-48.28472,570.0,Perennials,clay,14.669999999999998,https://doi.org/10.5539/jas.v10n7p174,2025-11-25 15:59:13,8.0
+1689,Specialized Irrigation Delivery,10177.1097729,46.2831,-119.4425,226.0,Vines,loamy sands,2987434.18593675,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+1690,Specialized Irrigation Delivery,18291.8977416,46.2831,-119.4425,226.0,Vines,loamy sands,5291791.133766749,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+1691,Specialized Irrigation Delivery,10401.2751864,46.2831,-119.4425,226.0,Vines,loamy sands,3077962.4946015,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+1694,Conventional/Fixed Scheduling,9334.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,0.81,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1695,Conventional/Fixed Scheduling,10220.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,1.1,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1696,Conventional/Fixed Scheduling,8298.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,0.82,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1697,Conventional/Fixed Scheduling,9944.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,1.2,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1698,Conventional/Fixed Scheduling,6637.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,0.91,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1699,Conventional/Fixed Scheduling,7414.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,1.1,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1700,Conventional/Fixed Scheduling,10162.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,0.83,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1701,Conventional/Fixed Scheduling,9468.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,0.97,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1702,Conventional/Fixed Scheduling,8365.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,0.89,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1703,Conventional/Fixed Scheduling,9954.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,1.16,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1704,Conventional/Fixed Scheduling,6854.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,0.92,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1705,Conventional/Fixed Scheduling,9954.0,31.1,30.933333333333334,4.0,Legumes_Grains,clay,1.12,http://dx.doi.org/10.1016/0378-4290(94)90002-7,2025-11-25 16:49:17,8.0
+1706,Evapotranspiration-Based,14870.000000000002,36.61666666666667,10.1403,64.0,Wheat,clay,2.8,http://dx.doi.org/10.1016/j.agwat.2003.09.002,2025-11-25 16:52:18,8.0
+1707,Deficit/Partial Irrigation,14012.0,36.61666666666667,10.1403,64.0,Wheat,clay,3.0,http://dx.doi.org/10.1016/j.agwat.2003.09.002,2025-11-25 16:52:18,8.0
+1708,Conventional/Fixed Scheduling,10250.999999999998,36.61666666666667,10.1403,64.0,Wheat,clay,4.0,http://dx.doi.org/10.1016/j.agwat.2003.09.002,2025-11-25 16:52:18,8.0
+1709,Evapotranspiration-Based,12546.0,36.61666666666667,10.1403,64.0,Wheat,clay,2.8,http://dx.doi.org/10.1016/j.agwat.2003.09.002,2025-11-25 16:52:18,8.0
+1710,Deficit/Partial Irrigation,11500.0,36.61666666666667,10.1403,64.0,Wheat,clay,3.1,http://dx.doi.org/10.1016/j.agwat.2003.09.002,2025-11-25 16:52:18,8.0
+1711,Conventional/Fixed Scheduling,11007.0,36.61666666666667,10.1403,64.0,Wheat,clay,4.0,http://dx.doi.org/10.1016/j.agwat.2003.09.002,2025-11-25 16:52:18,8.0
+1712,Evapotranspiration-Based,13622.0,36.61666666666667,10.1403,64.0,Wheat,clay,2.8,http://dx.doi.org/10.1016/j.agwat.2003.09.002,2025-11-25 16:52:18,8.0
+1777,Specialized Irrigation Delivery,61688.58,2.933333333333333,101.9,108.0,Vines,loamy sands,10.740839958190918,https://doi.org/10.1016/j.agwat.2008.11.006,2025-11-25 18:24:28,8.0
+1778,Specialized Irrigation Delivery,390225.6277499999,2.933333333333333,101.9,108.0,Vines,loamy sands,10.740839958190918,https://doi.org/10.1016/j.agwat.2008.11.006,2025-11-25 18:24:28,8.0
+1779,Specialized Irrigation Delivery,16329.329999999998,2.933333333333333,101.9,108.0,Vines,loamy sands,9.742215156555176,https://doi.org/10.1016/j.agwat.2008.11.006,2025-11-25 18:24:28,8.0
+1780,Evapotranspiration-Based,5000.0,31.63222,8.15667,412.0,Wheat,silty clay loams,1.17,https://doi.org/10.4236/as.2011.23036,2025-11-25 18:26:14,9.0
+1781,Plant or Climate-Based,3900.0,31.63222,8.15667,412.0,Wheat,silty clay loams,0.99,https://doi.org/10.4236/as.2011.23036,2025-11-25 18:26:14,9.0
+1782,Plant or Climate-Based,6200.0,31.63222,8.15667,412.0,Wheat,silty clay loams,1.5,https://doi.org/10.4236/as.2011.23036,2025-11-25 18:26:14,9.0
+1798,Specialized Irrigation Delivery,36287.4,-6.8,-43.6,170.0,Perennials,sandy loams,10.184436798095703,https://doi.org/10.1016/j.fcr.2016.06.013,2025-11-25 19:11:29,8.0
+1873,Plant or Climate-Based,2921.0,19.5,76.0,454.0,Soybean,clay,0.8085,https://doi.org/10.18805/ag.D-4932,2025-11-25 20:28:12,9.0
+1874,Plant or Climate-Based,3079.0,19.5,76.0,454.0,Soybean,clay,0.833,https://doi.org/10.18805/ag.D-4932,2025-11-25 20:28:12,9.0
+1875,Plant or Climate-Based,3045.0,19.5,76.0,454.0,Soybean,clay,0.8216,https://doi.org/10.18805/ag.D-4932,2025-11-25 20:28:12,9.0
+1876,Plant or Climate-Based,2989.0,19.5,76.0,454.0,Soybean,clay,0.7498,https://doi.org/10.18805/ag.D-4932,2025-11-25 20:28:12,9.0
+1877,Plant or Climate-Based,3083.0,19.5,76.0,454.0,Soybean,clay,0.7787000000000001,https://doi.org/10.18805/ag.D-4932,2025-11-25 20:28:12,9.0
+1878,Plant or Climate-Based,3221.0,19.5,76.0,454.0,Soybean,clay,0.8003,https://doi.org/10.18805/ag.D-4932,2025-11-25 20:28:12,9.0
+1879,Plant or Climate-Based,3138.0,19.5,76.0,454.0,Soybean,clay,0.723,https://doi.org/10.18805/ag.D-4932,2025-11-25 20:28:12,9.0
+1880,Conventional/Fixed Scheduling,2833.0,19.5,76.0,454.0,Soybean,clay,0.8484999999999999,https://doi.org/10.18805/ag.D-4932,2025-11-25 20:28:12,9.0
+1917,Evapotranspiration-Based,2821.34535,7.466666666666667,4.56667,271.0,Soybean,sandy loams,0.595,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1918,Plant or Climate-Based,2558.2617,7.46667,4.56667,271.0,Soybean,sandy loams,0.609,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1919,Plant or Climate-Based,2104.6692,7.46667,4.56667,271.0,Soybean,sandy loams,0.511,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1920,Plant or Climate-Based,1642.00485,7.46667,4.56667,271.0,Soybean,sandy loams,0.389,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1921,Plant or Climate-Based,2095.59735,7.46667,4.56667,271.0,Soybean,sandy loams,0.466,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1922,Evapotranspiration-Based,1378.9212,7.46667,4.56667,271.0,Soybean,sandy loams,0.3,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1923,Plant or Climate-Based,988.83165,7.46667,4.56667,271.0,Soybean,sandy loams,0.2259999999999999,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1924,Plant or Climate-Based,1124.9094,7.46667,4.56667,271.0,Soybean,sandy loams,0.274,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1925,Plant or Climate-Based,635.0294999999999,7.46667,4.566666666666666,271.0,Soybean,sandy loams,0.193,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1926,Plant or Climate-Based,635.0294999999999,7.466666666666667,4.56667,271.0,Soybean,sandy loams,0.251,https://doi.org/10.1186/s40066-015-0030-8,2025-11-25 20:48:04,8.0
+1959,Evapotranspiration-Based,4004.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.49,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1960,Deficit/Partial Irrigation,3910.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.51,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1961,Deficit/Partial Irrigation,3889.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.52,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1962,Deficit/Partial Irrigation,3798.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.54,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1963,Deficit/Partial Irrigation,3793.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.5,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1964,Deficit/Partial Irrigation,3528.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.5,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1965,Deficit/Partial Irrigation,3174.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.47,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1966,Deficit/Partial Irrigation,3687.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.48,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1967,Deficit/Partial Irrigation,3385.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.47,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1968,Deficit/Partial Irrigation,3095.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.47,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1969,Deficit/Partial Irrigation,3554.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.47,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1970,Deficit/Partial Irrigation,3256.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.44,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1971,Deficit/Partial Irrigation,2932.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.42,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1972,Conventional/Fixed Scheduling,1974.0,40.18333333333333,29.066666666666663,100.0,Soybean,clay,0.56,https://doi.org/10.1501/Tarimbil_0000001375,2025-11-25 20:59:01,9.0
+1973,Specialized Irrigation Delivery,4263.7695,50.016666666666666,23.75,380.0,Wheat,silt loams,8.823047637939453,https://doi.org/10.1007/s42452-024-06412-0,2025-11-25 21:06:56,8.0
+1974,Specialized Irrigation Delivery,4263.7695,50.016666666666666,23.75,380.0,Wheat,loamy sands,8.823047637939453,https://doi.org/10.1007/s42452-024-06412-0,2025-11-25 21:06:56,8.0
+1975,Specialized Irrigation Delivery,22679.625,50.016666666666666,23.75,380.0,Roots_Tubers,silt loams,9.825804710388184,https://doi.org/10.1007/s42452-024-06412-0,2025-11-25 21:06:56,8.0
+1976,Specialized Irrigation Delivery,22679.625,50.016666666666666,23.75,380.0,Roots_Tubers,loamy sands,9.825804710388184,https://doi.org/10.1007/s42452-024-06412-0,2025-11-25 21:06:56,8.0
+1977,Specialized Irrigation Delivery,3175.1475,50.016666666666666,23.75,380.0,Hay,silt loams,9.047075271606444,https://doi.org/10.1007/s42452-024-06412-0,2025-11-25 21:06:56,8.0
+1978,Specialized Irrigation Delivery,3175.1475,50.016666666666666,23.75,380.0,Hay,loamy sands,9.047075271606444,https://doi.org/10.1007/s42452-024-06412-0,2025-11-25 21:06:56,8.0
+1979,Plant or Climate-Based,4354.487999999999,49.0,32.0,150.0,Legumes_Grains,sandy loams,8.823047637939453,https://doi.org/10.2478/heem-2023-0008,2025-11-25 21:13:09,8.0
+1980,Conventional/Fixed Scheduling,1044.0,34.310707,-79.747591,42.0,Fibers_Oilseeds,loamy sands,0.16,https://doi.org/10.1016/j.agwat.2019.03.037,2025-11-25 21:15:12,9.0
+1981,Conventional/Fixed Scheduling,1084.0,34.310707,-79.747591,42.0,Fibers_Oilseeds,loamy sands,0.1699999999999999,https://doi.org/10.1016/j.agwat.2019.03.037,2025-11-25 21:15:12,9.0
+1982,Plant or Climate-Based,1084.0,34.310707,-79.747591,42.0,Fibers_Oilseeds,loamy sands,0.1699999999999999,https://doi.org/10.1016/j.agwat.2019.03.037,2025-11-25 21:15:12,9.0
+1983,Conventional/Fixed Scheduling,1318.0,34.310707,-79.747591,42.0,Fibers_Oilseeds,loamy sands,0.13,https://doi.org/10.1016/j.agwat.2019.03.037,2025-11-25 21:15:12,9.0
+1984,Plant or Climate-Based,1274.0,34.310707,-79.747591,42.0,Fibers_Oilseeds,loamy sands,0.13,https://doi.org/10.1016/j.agwat.2019.03.037,2025-11-25 21:15:12,9.0
+2005,Conventional/Fixed Scheduling,1701.0,40.766666666666666,8.483333333333333,81.0,Fibers_Oilseeds,sandy clay loams,9.08986759185791,https://doi.org/10.1007/s00271-018-0588-6,2025-11-25 21:23:22,9.0
+2006,Evapotranspiration-Based,1779.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,0.1379999999999999,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2007,Evapotranspiration-Based,2028.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,0.1379999999999999,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2008,Deficit/Partial Irrigation,1803.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,0.27,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2009,Deficit/Partial Irrigation,2082.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,0.27,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2010,Conventional/Fixed Scheduling,1573.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2011,Conventional/Fixed Scheduling,1788.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2012,Evapotranspiration-Based,1779.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,0.1379999999999999,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2013,Evapotranspiration-Based,2028.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,0.1379999999999999,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2014,Deficit/Partial Irrigation,1803.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,0.27,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2015,Deficit/Partial Irrigation,2082.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,0.27,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2016,Conventional/Fixed Scheduling,1573.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2017,Conventional/Fixed Scheduling,1788.0,33.7,-90.91666666666669,32.0,Fibers_Oilseeds,silt loams,8.594532012939453,https://doi.org/10.1016/j.fcr.2016.06.003,2025-11-25 21:26:37,9.0
+2018,Evapotranspiration-Based,11984.0,35.232,-71.442,96.0,Perennials,sandy clay loams,4.26,https://doi.org/10.1016/J.AGWAT.2016.08.017,2025-11-25 21:39:13,9.0
+2019,Plant or Climate-Based,10917.0,35.232,-71.442,96.0,Perennials,sandy clay loams,4.64,https://doi.org/10.1016/J.AGWAT.2016.08.017,2025-11-25 21:39:13,9.0
+2020,Plant or Climate-Based,7998.0,35.232,-71.442,96.0,Perennials,sandy clay loams,3.73,https://doi.org/10.1016/J.AGWAT.2016.08.017,2025-11-25 21:39:13,9.0
+2021,Plant or Climate-Based,7305.0,35.232,-71.442,96.0,Perennials,sandy clay loams,3.68,https://doi.org/10.1016/J.AGWAT.2016.08.017,2025-11-25 21:39:13,9.0
+2022,Conventional/Fixed Scheduling,2812.2735,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,8.916229248046875,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2023,Deficit/Partial Irrigation,1723.6514999999995,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,8.916229248046875,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2024,Deficit/Partial Irrigation,3084.429,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,8.916229248046875,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2025,Conventional/Fixed Scheduling,16601.4855,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,9.768288612365724,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2026,Deficit/Partial Irrigation,13154.1825,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,8.946345329284668,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2027,Deficit/Partial Irrigation,15694.3005,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,9.768288612365724,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2028,Deficit/Partial Irrigation,13426.338,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,8.946345329284668,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2029,Conventional/Fixed Scheduling,11067.657,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,8.946345329284668,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2030,Deficit/Partial Irrigation,8618.2575,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,8.733600616455078,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2031,Deficit/Partial Irrigation,12519.153,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,8.946345329284668,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2032,Deficit/Partial Irrigation,9525.4425,37.41666666666666,-5.95,42.0,Perennials,sandy clay loams,8.733600616455078,https://doi.org/10.1016/j.agwat.2020.106418,2025-11-25 21:40:24,9.0
+2033,Deficit/Partial Irrigation,67131.69,44.8153318,20.4456588,81.0,Vegetables,sandy clay loams,83.6,http://dx.doi.org/10.5513/JCEA01/12.4.960,2025-11-25 21:57:09,9.0
+2034,Evapotranspiration-Based,67585.2825,44.8153318,20.4456588,81.0,Vegetables,sandy clay loams,47.6,http://dx.doi.org/10.5513/JCEA01/12.4.960,2025-11-25 21:57:09,9.0
+2035,Deficit/Partial Irrigation,50711.6415,44.8153318,20.4456588,81.0,Vegetables,sandy clay loams,63.2,http://dx.doi.org/10.5513/JCEA01/12.4.960,2025-11-25 21:57:09,9.0
+2036,Evapotranspiration-Based,53523.91499999999,44.8153318,20.4456588,81.0,Vegetables,sandy clay loams,47.4,http://dx.doi.org/10.5513/JCEA01/12.4.960,2025-11-25 21:57:09,9.0
+2037,Evapotranspiration-Based,101287.20525,40.18333333333333,29.066666666666663,110.0,Vegetables,clay,21.2,https://doi.org/10.35193/bseufbd.1188145,2025-11-25 22:15:06,10.0
+2038,Deficit/Partial Irrigation,95708.0175,40.18333333333333,29.066666666666663,110.0,Vegetables,clay,22.4,https://doi.org/10.35193/bseufbd.1188145,2025-11-25 22:15:06,10.0
+2039,Deficit/Partial Irrigation,61997.0229,40.18333333333333,29.066666666666663,110.0,Vegetables,clay,16.3,https://doi.org/10.35193/bseufbd.1188145,2025-11-25 22:15:06,10.0
+2040,Evapotranspiration-Based,100552.3854,40.18333333333333,29.066666666666663,110.0,Vegetables,clay,21.2,https://doi.org/10.35193/bseufbd.1188145,2025-11-25 22:15:06,10.0
+2041,Deficit/Partial Irrigation,88804.33965,40.18333333333333,29.066666666666663,110.0,Vegetables,clay,20.6,https://doi.org/10.35193/bseufbd.1188145,2025-11-25 22:15:06,10.0
+2042,Deficit/Partial Irrigation,61107.9816,40.18333333333333,29.066666666666663,110.0,Vegetables,clay,16.1,https://doi.org/10.35193/bseufbd.1188145,2025-11-25 22:15:06,10.0
+2043,Deficit/Partial Irrigation,62051.454,36.36666666666667,33.916666666666664,97.0,Vegetables,silt loams,28.3,https://doi.org/10.21657/topraksu.339821,2025-11-25 22:24:36,9.0
+2044,Deficit/Partial Irrigation,95708.0175,36.36666666666667,33.916666666666664,97.0,Vegetables,silt loams,32.2,https://doi.org/10.21657/topraksu.339821,2025-11-25 22:24:36,9.0
+2045,Evapotranspiration-Based,116754.70949999998,36.36666666666667,33.916666666666664,97.0,Vegetables,silt loams,36.8,https://doi.org/10.21657/topraksu.339821,2025-11-25 22:24:36,9.0
+2046,Deficit/Partial Irrigation,105052.023,36.36666666666667,33.916666666666664,97.0,Vegetables,silt loams,24.8,https://doi.org/10.21657/topraksu.339821,2025-11-25 22:24:36,9.0
+2085,Deficit/Partial Irrigation,7348.198499999999,31.5,31.09,0.0,Wheat,clay,1.6,https://acsess.onlinelibrary.wiley.com/doi/book/10.2134/advagricsystmodel2,2025-11-26 02:13:43,9.0
+2086,Deficit/Partial Irrigation,6713.169,31.5,31.09,0.0,Wheat,clay,1.5,https://acsess.onlinelibrary.wiley.com/doi/book/10.2134/advagricsystmodel2,2025-11-26 02:13:43,9.0
+2087,Deficit/Partial Irrigation,3356.5845,31.5,31.09,0.0,Wheat,clay,0.7,https://acsess.onlinelibrary.wiley.com/doi/book/10.2134/advagricsystmodel2,2025-11-26 02:13:43,9.0
+2088,Deficit/Partial Irrigation,7892.509499999999,31.5,31.09,0.0,Wheat,clay,2.0,https://acsess.onlinelibrary.wiley.com/doi/book/10.2134/advagricsystmodel2,2025-11-26 02:13:43,9.0
+2089,Deficit/Partial Irrigation,6713.169,31.5,31.09,0.0,Wheat,clay,1.8,https://acsess.onlinelibrary.wiley.com/doi/book/10.2134/advagricsystmodel2,2025-11-26 02:13:43,9.0
+2090,Deficit/Partial Irrigation,6168.857999999999,31.5,31.09,0.0,Wheat,clay,1.7,https://acsess.onlinelibrary.wiley.com/doi/book/10.2134/advagricsystmodel2,2025-11-26 02:13:43,9.0
+2215,Specialized Irrigation Delivery,12981.81735,20.7618122,77.1921157,279.0,Vegetables,clay,8.848677635192871,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2216,Specialized Irrigation Delivery,13834.57125,20.7618122,77.1921157,279.0,Vegetables,clay,8.848677635192871,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2217,Specialized Irrigation Delivery,12882.026999999998,20.7618122,77.1921157,279.0,Vegetables,clay,8.848677635192871,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2218,Evapotranspiration-Based,15422.145,20.7618122,77.1921157,279.0,Vegetables,clay,9.742215156555176,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2219,Evapotranspiration-Based,15512.8635,20.7618122,77.1921157,279.0,Vegetables,clay,9.742215156555176,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2220,Evapotranspiration-Based,12981.81735,20.7618122,77.1921157,279.0,Vegetables,clay,8.848677635192871,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2221,Evapotranspiration-Based,14311.000000000002,20.7618122,77.1921157,279.0,Vegetables,clay,5.02,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2222,Evapotranspiration-Based,11419.0,20.7618122,77.1921157,279.0,Vegetables,clay,5.17,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2223,Evapotranspiration-Based,10307.0,20.7618122,77.1921157,279.0,Vegetables,clay,5.18,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2224,Evapotranspiration-Based,9275.0,20.7618122,77.1921157,279.0,Vegetables,clay,5.36,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2225,Evapotranspiration-Based,7994.0,20.7618122,77.1921157,279.0,Vegetables,sandy loams,5.55,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2226,Evapotranspiration-Based,13722.0,20.7618122,77.1921157,279.0,Vegetables,clay,5.16,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2227,Evapotranspiration-Based,12803.0,20.7618122,77.1921157,279.0,Vegetables,clay,5.79,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2228,Evapotranspiration-Based,12041.0,20.7618122,77.1921157,279.0,Vegetables,clay,6.05,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2229,Evapotranspiration-Based,11137.0,20.7618122,77.1921157,279.0,Vegetables,clay,6.44,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2230,Evapotranspiration-Based,9949.0,20.7618122,77.1921157,279.0,Vegetables,clay,6.91,https://doi.org/10.1007/s40003-016-0238-2,2025-11-26 03:06:05,9.0
+2308,Evapotranspiration-Based,11059.0,40.45,-104.64,1428.0,Maize,sandy loams,8.946345329284668,https://doi.org/10.1016/j.agwat.2011.11.005,2025-11-26 03:27:10,9.0
+2321,Deficit/Partial Irrigation,3399.0,33.4419,-90.89072222222222,36.0,Fibers_Oilseeds,silt loams,8.594532012939453,https://doi.org/10.5539/jas.v4n12p93,2025-11-26 04:14:54,8.0
+2322,Conventional/Fixed Scheduling,2975.0,33.4419,-90.89072222222222,36.0,Fibers_Oilseeds,silt loams,8.594532012939453,https://doi.org/10.5539/jas.v4n12p93,2025-11-26 04:14:54,8.0
+2337,Deficit/Partial Irrigation,1193.0,40.4425,-104.6367,1427.0,Maize,sandy loams,9.08986759185791,https://doi.org/10.1016/0378-4290(92)90044-A,2025-11-26 04:39:52,9.0
+2338,Deficit/Partial Irrigation,551.0,40.4425,-104.6367,1427.0,Maize,sandy loams,9.08986759185791,https://doi.org/10.1016/0378-4290(92)90044-A,2025-11-26 04:39:52,9.0
+2339,Deficit/Partial Irrigation,1148.0,40.4425,-104.6367,1427.0,Maize,sandy loams,9.08986759185791,https://doi.org/10.1016/0378-4290(92)90044-A,2025-11-26 04:39:52,9.0
+2346,Evapotranspiration-Based,13000.0,40.447222,-104.636111,1425.0,Maize,fine sands,2.0,https://doi.org/10.1007/s00271-017-0540-1,2025-11-26 04:43:49,9.0
+2347,Evapotranspiration-Based,12940.0,40.447222,-104.636111,1425.0,Maize,fine sands,2.0,https://doi.org/10.1007/s00271-017-0540-1,2025-11-26 04:43:49,9.0
+2348,Evapotranspiration-Based,12600.0,40.447222,-104.636111,1425.0,Maize,fine sands,2.0,https://doi.org/10.1007/s00271-017-0540-1,2025-11-26 04:43:49,9.0
+2349,Evapotranspiration-Based,11350.0,40.447222,-104.636111,1425.0,Maize,fine sands,2.0,https://doi.org/10.1007/s00271-017-0540-1,2025-11-26 04:43:49,9.0
+2350,Evapotranspiration-Based,9010.0,40.447222,-104.636111,1425.0,Maize,fine sands,2.0,https://doi.org/10.1007/s00271-017-0540-1,2025-11-26 04:43:49,9.0
+2351,Evapotranspiration-Based,8820.0,40.447222,-104.636111,1425.0,Maize,fine sands,2.0,https://doi.org/10.1007/s00271-017-0540-1,2025-11-26 04:43:49,9.0
+2355,Deficit/Partial Irrigation,14868.76215,-29.616666666666667,30.383333333333333,750.0,Roots_Tubers,sandy clay loams,9.438875198364258,https://doi.org/10.2134/agronj14.0287,2025-11-26 05:05:44,8.0
+2356,Evapotranspiration-Based,13689.421649999998,-29.616666666666667,30.383333333333333,750.0,Roots_Tubers,sandy clay loams,9.415669441223145,https://doi.org/10.2134/agronj14.0287,2025-11-26 05:05:44,8.0
+2357,Deficit/Partial Irrigation,6041.8521,-25.6,28.35,1168.0,Roots_Tubers,sandy clay loams,8.594532012939453,https://doi.org/10.2134/agronj14.0287,2025-11-26 05:05:44,8.0
+2358,Deficit/Partial Irrigation,9053.7063,-25.6,28.35,1168.0,Roots_Tubers,sandy clay loams,8.84350872039795,https://doi.org/10.2134/agronj14.0287,2025-11-26 05:05:44,8.0
+2359,Evapotranspiration-Based,8509.3953,-25.6,28.35,1168.0,Roots_Tubers,sandy clay loams,8.84350872039795,https://doi.org/10.2134/agronj14.0287,2025-11-26 05:05:44,8.0
+2360,Evapotranspiration-Based,26253.9339,35.9191,10.5632,19.0,Roots_Tubers,sandy loams,11.2,https://doi.org/10.13128/ijam-650,2025-11-26 06:04:14,8.0
+2361,Deficit/Partial Irrigation,16728.4914,35.9191,10.5632,19.0,Roots_Tubers,sandy loams,13.96,https://doi.org/10.13128/ijam-650,2025-11-26 06:04:14,8.0
+2546,Specialized Irrigation Delivery,12300.0,35.27652,-101.658,1114.0,Maize,silty clay loams,10.008974075317385,https://doi.org/10.1016/j.agsy.2003.11.006,2025-11-26 06:47:03,8.0
+2547,Soil Moisture-Based,1535.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,0.429,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2548,Soil Moisture-Based,1362.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,0.217,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2549,Plant or Climate-Based,1495.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,0.352,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2550,Evapotranspiration-Based,1340.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,0.145,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2551,Conventional/Fixed Scheduling,936.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,8.594532012939453,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2552,Soil Moisture-Based,1335.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,0.134,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2553,Soil Moisture-Based,1342.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,0.089,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2554,Plant or Climate-Based,1305.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,0.0849999999999999,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2555,Evapotranspiration-Based,1319.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,0.0349999999999999,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2556,Conventional/Fixed Scheduling,1215.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,8.594532012939453,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2557,Soil Moisture-Based,1408.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,8.594532012939453,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2558,Soil Moisture-Based,1232.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,8.594532012939453,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2559,Plant or Climate-Based,1346.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,8.594532012939453,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2560,Evapotranspiration-Based,1366.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,8.594532012939453,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2561,Conventional/Fixed Scheduling,1604.0,31.17452,-84.191818,57.0,Fibers_Oilseeds,loamy sands,8.594532012939453,https://doi.org/10.1016/j.agwat.2003.12.002,2025-11-26 06:48:23,9.0
+2598,Plant or Climate-Based,2730.62685,31.25,73.06,184.4,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.4236/ajps.2013.47175,2025-11-26 06:56:17,8.0
+2599,Plant or Climate-Based,3202.3630499999995,31.25,73.06,184.4,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.4236/ajps.2013.47175,2025-11-26 06:56:17,8.0
+2600,Plant or Climate-Based,3274.93785,31.25,73.06,184.4,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.4236/ajps.2013.47175,2025-11-26 06:56:17,8.0
+2601,Plant or Climate-Based,3837.39255,31.25,73.06,184.4,Wheat,sandy clay loams,8.594532012939453,https://doi.org/10.4236/ajps.2013.47175,2025-11-26 06:56:17,8.0
+2722,Deficit/Partial Irrigation,27083.3,11.583333333333334,39.63333333333333,1557.0,Vegetables,clay,9.4,http://doi.org/10.1016/j.agwat.2009.04.009,2025-11-26 07:58:36,8.0
+2723,Deficit/Partial Irrigation,21471.0,11.583333333333334,39.63333333333333,1557.0,Vegetables,clay,11.0,http://doi.org/10.1016/j.agwat.2009.04.009,2025-11-26 07:58:36,8.0
+2724,Deficit/Partial Irrigation,4454.27835,25.0,89.0,37.0,Maize,coarse sands,8.594532012939453,http://doi.org/10.1016/j.fcr.2004.09.015,2025-11-26 08:16:59,9.0
+2725,Deficit/Partial Irrigation,4626.643499999999,25.0,89.0,37.0,Maize,coarse sands,8.594532012939453,http://doi.org/10.1016/j.fcr.2004.09.015,2025-11-26 08:16:59,9.0
+2726,Deficit/Partial Irrigation,4590.356099999999,25.0,89.0,37.0,Maize,coarse sands,8.594532012939453,http://doi.org/10.1016/j.fcr.2004.09.015,2025-11-26 08:16:59,9.0
+2727,Deficit/Partial Irrigation,4916.9427,25.0,89.0,37.0,Maize,coarse sands,8.594532012939453,http://doi.org/10.1016/j.fcr.2004.09.015,2025-11-26 08:16:59,9.0
+2728,Conventional/Fixed Scheduling,5098.3797,25.0,89.0,37.0,Maize,coarse sands,8.594532012939453,http://doi.org/10.1016/j.fcr.2004.09.015,2025-11-26 08:16:59,9.0
+2729,Deficit/Partial Irrigation,79832.28,29.016666666666666,-99.08333333333331,283.0,Vegetables,silty clay,10.740839958190918,http://dx.doi.org/10.17221/208/2013-HORTSCI,2025-11-26 08:57:53,8.0
+2730,Deficit/Partial Irrigation,80739.465,29.016666666666666,-99.08333333333331,283.0,Vegetables,silty clay,10.740839958190918,http://dx.doi.org/10.17221/208/2013-HORTSCI,2025-11-26 08:57:53,8.0
+2731,Evapotranspiration-Based,97068.795,29.016666666666666,-99.08333333333331,283.0,Vegetables,silty clay,10.740839958190918,http://dx.doi.org/10.17221/208/2013-HORTSCI,2025-11-26 08:57:53,8.0
+2732,Deficit/Partial Irrigation,67131.69,29.016666666666666,-99.08333333333331,283.0,Vegetables,silty clay,10.740839958190918,http://dx.doi.org/10.17221/208/2013-HORTSCI,2025-11-26 08:57:53,8.0
+2733,Evapotranspiration-Based,72574.79999999999,29.016666666666666,-99.08333333333331,283.0,Vegetables,silty clay,10.740839958190918,http://dx.doi.org/10.17221/208/2013-HORTSCI,2025-11-26 08:57:53,8.0
+2747,Plant or Climate-Based,723.389319,5.10535,-1.2466,18.0,Vegetables,sandy clay loams,131.20000000000002,https://doi.org/10.1016/j.agwat.2006.10.017,2025-11-26 09:40:55,9.0
+2748,Plant or Climate-Based,660.9749909999999,5.10535,-1.2466,18.0,Vegetables,sandy clay loams,143.5,https://doi.org/10.1016/j.agwat.2006.10.017,2025-11-26 09:40:55,9.0
+2749,Plant or Climate-Based,260.543532,5.10535,-1.2466,18.0,Vegetables,sandy clay loams,51.7,https://doi.org/10.1016/j.agwat.2006.10.017,2025-11-26 09:40:55,9.0
+2750,Plant or Climate-Based,795.7826819999999,5.10535,-1.2466,18.0,Vegetables,sandy clay loams,157.9,https://doi.org/10.1016/j.agwat.2006.10.017,2025-11-26 09:40:55,9.0
+2751,Plant or Climate-Based,1077463.6245,5.10535,-1.2466,18.0,Vegetables,sandy clay loams,214.0,https://doi.org/10.1016/j.agwat.2006.10.017,2025-11-26 09:40:55,9.0
+2752,Plant or Climate-Based,1029654.975,5.10535,-1.2466,18.0,Vegetables,sandy clay loams,10.760971069335938,https://doi.org/10.1016/j.agwat.2006.10.017,2025-11-26 09:40:55,9.0
+2753,Plant or Climate-Based,176.901075,5.10535,-1.2466,18.0,Vegetables,sandy clay loams,9.804437637329102,https://doi.org/10.1016/j.agwat.2006.10.017,2025-11-26 09:40:55,9.0
+2756,Plant or Climate-Based,4513.4,16.16667,107.83333,1002.0,Legumes_Grains,clay,8.594532012939453,https://doi.org/10.1016/S0308-521X(03)00087-8,2025-11-26 09:53:23,8.0
+2757,Specialized Irrigation Delivery,13560.0,33.7,-90.9167,52.0,Maize,silt loams,0.022,https://doi.org/10.1016/S0378-3774(00)00072-X,2025-11-26 11:31:58,8.0
+2758,Specialized Irrigation Delivery,14050.0,33.7,-90.9167,52.0,Maize,silt loams,0.018,https://doi.org/10.1016/S0378-3774(00)00072-X,2025-11-26 11:31:58,8.0
+2759,Specialized Irrigation Delivery,12790.0,33.7,-90.9167,52.0,Maize,silt loams,0.025,https://doi.org/10.1016/S0378-3774(00)00072-X,2025-11-26 11:31:58,8.0
+2760,Specialized Irrigation Delivery,14210.0,33.7,-90.9167,52.0,Maize,silt loams,0.031,https://doi.org/10.1016/S0378-3774(00)00072-X,2025-11-26 11:31:58,8.0
+2761,Specialized Irrigation Delivery,11770.0,33.7,-90.9167,52.0,Maize,silt loams,0.015,https://doi.org/10.1016/S0378-3774(00)00072-X,2025-11-26 11:31:58,8.0
+2762,Specialized Irrigation Delivery,12380.0,33.7,-90.9167,52.0,Maize,silt loams,0.009,https://doi.org/10.1016/S0378-3774(00)00072-X,2025-11-26 11:31:58,8.0
+2763,Conventional/Fixed Scheduling,11150.0,33.7,-90.9167,52.0,Maize,silt loams,8.848677635192871,https://doi.org/10.1016/S0378-3774(00)00072-X,2025-11-26 11:31:58,8.0
+2764,Conventional/Fixed Scheduling,11970.0,33.7,-90.9167,52.0,Maize,silt loams,8.848677635192871,https://doi.org/10.1016/S0378-3774(00)00072-X,2025-11-26 11:31:58,8.0
+2783,Evapotranspiration-Based,21772.44,-14.225,-42.781389,525.0,Perennials,clay,6.955,http://dx.doi.org/10.1093/jxb/erh249,2025-11-26 11:39:29,9.0
+2784,Evapotranspiration-Based,23922.46845,-14.225,-42.781389,525.0,Perennials,clay,7.641,http://dx.doi.org/10.1093/jxb/erh249,2025-11-26 11:39:29,9.0
+2785,Deficit/Partial Irrigation,13979.72085,-14.225,-42.781389,525.0,Perennials,clay,5.583,http://dx.doi.org/10.1093/jxb/erh249,2025-11-26 11:39:29,9.0
+2786,Deficit/Partial Irrigation,14959.480649999998,-14.225,-42.781389,525.0,Perennials,clay,7.964,http://dx.doi.org/10.1093/jxb/erh249,2025-11-26 11:39:29,9.0
+2787,Deficit/Partial Irrigation,15422.145,-14.225,-42.781389,525.0,Perennials,clay,12.317,http://dx.doi.org/10.1093/jxb/erh249,2025-11-26 11:39:29,9.0
+2872,Evapotranspiration-Based,10339.0,40.45,-104.64,1428.0,Maize,sandy clay loams,1.46,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2873,Deficit/Partial Irrigation,8441.0,40.45,-104.64,1428.0,Maize,sandy clay loams,1.4,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2874,Deficit/Partial Irrigation,4817.0,40.45,-104.64,1428.0,Maize,sandy clay loams,1.11,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2875,Evapotranspiration-Based,8701.5,40.45,-104.64,1428.0,Maize,sandy clay loams,1.31,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2876,Deficit/Partial Irrigation,7392.22,40.45,-104.64,1428.0,Maize,sandy clay loams,1.28,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2877,Deficit/Partial Irrigation,4263.52,40.45,-104.64,1428.0,Maize,sandy clay loams,1.15,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2878,Evapotranspiration-Based,7819.2,40.45,-104.64,1428.0,Maize,sandy clay loams,1.22,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2879,Deficit/Partial Irrigation,6674.62,40.45,-104.64,1428.0,Maize,sandy clay loams,1.19,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2880,Deficit/Partial Irrigation,3820.12,40.45,-104.64,1428.0,Maize,sandy clay loams,1.15,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2881,Evapotranspiration-Based,7056.2,40.45,-104.64,1428.0,Maize,sandy clay loams,1.12,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2882,Deficit/Partial Irrigation,6068.14,40.45,-104.64,1428.0,Maize,sandy clay loams,1.12,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2883,Deficit/Partial Irrigation,3480.56,40.45,-104.64,1428.0,Maize,sandy clay loams,1.23,https://doi.org/10.1016/j.agwat.2012.04.004,2025-11-26 13:34:10,9.0
+2907,Conventional/Fixed Scheduling,2992.86,32.0,53.0,1510.0,Wheat,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2908,Specialized Irrigation Delivery,3591.44,32.0,53.0,1510.0,Wheat,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2909,Specialized Irrigation Delivery,3160.46,32.0,53.0,1510.0,Wheat,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2910,Conventional/Fixed Scheduling,55884.47,32.0,53.0,1510.0,Maize,clay,10.740839958190918,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2911,Specialized Irrigation Delivery,64084.8,32.0,53.0,1510.0,Maize,clay,10.740839958190918,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2912,Specialized Irrigation Delivery,57884.63,32.0,53.0,1510.0,Maize,clay,10.740839958190918,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2913,Conventional/Fixed Scheduling,4469.33,32.0,53.0,1510.0,Wheat,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2914,Specialized Irrigation Delivery,6480.53,32.0,53.0,1510.0,Wheat,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2915,Specialized Irrigation Delivery,5452.59,32.0,53.0,1510.0,Wheat,clay,8.594532012939453,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2916,Conventional/Fixed Scheduling,64773.93,32.0,53.0,1510.0,Vegetables,clay,10.740839958190918,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2917,Specialized Irrigation Delivery,77728.71,32.0,53.0,1510.0,Vegetables,clay,10.740839958190918,https://doi.org/10.1016/j.agwat.2014.05.018,2025-11-26 14:04:47,8.0
+2928,Conventional/Fixed Scheduling,12328.644149999998,9.1,37.15,1590.0,Vegetables,sandy clay loams,1.89,https://doi.org/10.3329/ijarit.v11i1.54471,2025-11-26 14:12:42,8.0
+2929,Conventional/Fixed Scheduling,13562.415749999998,9.1,37.15,1590.0,Vegetables,sandy clay loams,2.08,https://doi.org/10.3329/ijarit.v11i1.54471,2025-11-26 14:12:42,8.0
+2930,Conventional/Fixed Scheduling,17789.897849999998,9.1,37.15,1590.0,Vegetables,sandy clay loams,2.36,https://doi.org/10.3329/ijarit.v11i1.54471,2025-11-26 14:12:42,8.0
+2931,Conventional/Fixed Scheduling,13380.978749999998,9.1,37.15,1590.0,Vegetables,sandy clay loams,2.06,https://doi.org/10.3329/ijarit.v11i1.54471,2025-11-26 14:12:42,8.0
+2932,Conventional/Fixed Scheduling,14478.6726,9.1,37.15,1590.0,Vegetables,sandy clay loams,2.23,https://doi.org/10.3329/ijarit.v11i1.54471,2025-11-26 14:12:42,8.0
+2933,Deficit/Partial Irrigation,16200.0,33.333333333333336,36.43333333333333,600.0,Vegetables,sandy clay loams,2.88,https://doi.org/10.1016/j.agwat.2004.08.002,2025-11-26 14:13:29,9.0
+2934,Deficit/Partial Irrigation,9800.0,33.333333333333336,36.43333333333333,600.0,Vegetables,sandy clay loams,1.14,https://doi.org/10.1016/j.agwat.2004.08.002,2025-11-26 14:13:29,9.0
+2935,Evapotranspiration-Based,23700.0,33.333333333333336,36.43333333333333,600.0,Vegetables,sandy clay loams,1.9,https://doi.org/10.1016/j.agwat.2004.08.002,2025-11-26 14:13:29,9.0
+2936,Deficit/Partial Irrigation,16200.0,33.333333333333336,36.43333333333333,600.0,Vegetables,sandy clay loams,2.88,https://doi.org/10.1016/j.agwat.2004.08.002,2025-11-26 14:13:29,9.0
+2937,Deficit/Partial Irrigation,9800.0,33.333333333333336,36.43333333333333,600.0,Vegetables,sandy clay loams,1.14,https://doi.org/10.1016/j.agwat.2004.08.002,2025-11-26 14:13:29,9.0
+2938,Evapotranspiration-Based,23700.0,33.333333333333336,36.43333333333333,600.0,Vegetables,sandy clay loams,1.9,https://doi.org/10.1016/j.agwat.2004.08.002,2025-11-26 14:13:29,9.0
+2944,Specialized Irrigation Delivery,54158.9445,47.2854191,-119.3333596,354.0,Vegetables,sandy clay loams,16.027297973632812,https://doi.org/10.1017/S0014479714000234,2025-11-26 14:21:31,9.0
+2945,Specialized Irrigation Delivery,55882.596,47.2854191,-119.3333596,354.0,Vegetables,silt loams,16.027297973632812,https://doi.org/10.1017/S0014479714000234,2025-11-26 14:21:31,9.0
+2970,Plant or Climate-Based,58331.9955,33.47055555555556,119.986111,2.0,Vegetables,silt loams,31.6,https://doi.org/10.1016/j.scienta.2015.06.028,2025-11-26 15:02:55,9.0
+2971,Plant or Climate-Based,88722.693,33.47055555555556,119.986111,2.0,Vegetables,silt loams,57.3,https://doi.org/10.1016/j.scienta.2015.06.028,2025-11-26 15:02:55,9.0
+2972,Plant or Climate-Based,72756.237,33.47055555555556,119.986111,2.0,Vegetables,silt loams,43.2,https://doi.org/10.1016/j.scienta.2015.06.028,2025-11-26 15:02:55,9.0
+2973,Plant or Climate-Based,80467.3095,33.47055555555556,119.986111,2.0,Vegetables,silt loams,51.3,https://doi.org/10.1016/j.scienta.2015.06.028,2025-11-26 15:02:55,9.0
+2974,Plant or Climate-Based,61053.55049999999,33.47055555555556,119.986111,2.0,Vegetables,silt loams,32.5,https://doi.org/10.1016/j.scienta.2015.06.028,2025-11-26 15:02:55,9.0
+2975,Plant or Climate-Based,81011.62049999999,33.47055555555556,119.986111,2.0,Vegetables,silt loams,42.4,https://doi.org/10.1016/j.scienta.2015.06.028,2025-11-26 15:02:55,9.0
+2976,Plant or Climate-Based,87361.91549999999,33.47055555555556,119.986111,2.0,Vegetables,silt loams,36.7,https://doi.org/10.1016/j.scienta.2015.06.028,2025-11-26 15:02:55,9.0
+2977,Plant or Climate-Based,101060.409,33.47055555555556,119.986111,2.0,Vegetables,silt loams,24.7,https://doi.org/10.1016/j.scienta.2015.06.028,2025-11-26 15:02:55,9.0
+3001,Deficit/Partial Irrigation,13335.6195,37.2833,-6.05,30.0,Perennials,sandy loams,5.1,https://doi.org/10.3390/agronomy10020258,2025-11-26 15:19:48,8.0
+3002,Deficit/Partial Irrigation,11067.657,37.2833,-6.05,30.0,Perennials,sandy loams,5.0,https://doi.org/10.3390/agronomy10020258,2025-11-26 15:19:48,8.0
+3003,Evapotranspiration-Based,10886.22,37.2833,-6.05,30.0,Perennials,sandy loams,8.3,https://doi.org/10.3390/agronomy10020258,2025-11-26 15:19:48,8.0
+3004,Deficit/Partial Irrigation,453.5925,37.2833,-6.05,30.0,Perennials,sandy loams,0.1,https://doi.org/10.3390/agronomy10020258,2025-11-26 15:19:48,8.0
+3005,Deficit/Partial Irrigation,362.874,37.2833,-6.05,30.0,Perennials,sandy loams,0.1,https://doi.org/10.3390/agronomy10020258,2025-11-26 15:19:48,8.0
+3006,Evapotranspiration-Based,181.437,37.2833,-6.05,30.0,Perennials,sandy loams,0.1,https://doi.org/10.3390/agronomy10020258,2025-11-26 15:19:48,8.0
+3007,Deficit/Partial Irrigation,15422.145,37.2833,-6.05,30.0,Perennials,sandy loams,5.3,https://doi.org/10.3390/agronomy10020258,2025-11-26 15:19:48,8.0
+3008,Deficit/Partial Irrigation,14605.6785,37.2833,-6.05,30.0,Perennials,sandy loams,5.5,https://doi.org/10.3390/agronomy10020258,2025-11-26 15:19:48,8.0
+3009,Evapotranspiration-Based,15966.456,37.2833,-6.05,30.0,Perennials,sandy loams,3.9,https://doi.org/10.3390/agronomy10020258,2025-11-26 15:19:48,8.0
+3319,Conventional/Fixed Scheduling,5706.193649999999,8.433333,39.03333333333333,1602.0,Maize,clay,1.15,https://doi.org/10.4172/2168-9768.1000207,2025-11-26 17:06:40,9.0
+3320,Specialized Irrigation Delivery,4209.3384,8.433333333333334,39.03333333333333,1602.0,Maize,clay,1.69,https://doi.org/10.4172/2168-9768.1000207,2025-11-26 17:06:40,9.0
+3321,Conventional/Fixed Scheduling,3810.177,8.433333333333334,39.03333333333333,1602.0,Maize,clay,1.53,https://doi.org/10.4172/2168-9768.1000207,2025-11-26 17:06:40,9.0
+3322,Conventional/Fixed Scheduling,5706.193649999999,8.433333333333334,39.03333333333333,1602.0,Maize,clay,1.15,https://doi.org/10.4172/2168-9768.1000207,2025-11-26 17:06:40,9.0
+3323,Specialized Irrigation Delivery,4209.3384,8.433333333333334,39.03333333333333,1602.0,Maize,clay,1.69,https://doi.org/10.4172/2168-9768.1000207,2025-11-26 17:06:40,9.0
+3324,Conventional/Fixed Scheduling,3810.177,8.433333333333334,39.03333333333333,1602.0,Maize,clay,1.53,https://doi.org/10.4172/2168-9768.1000207,2025-11-26 17:06:40,9.0
+3325,Conventional/Fixed Scheduling,25655.1918,8.433333333333334,39.03333333333333,1602.0,Maize,clay,9.966034889221191,https://doi.org/10.4172/2168-9768.1000207,2025-11-26 17:06:40,9.0
+3326,Specialized Irrigation Delivery,18533.78955,8.433333333333334,39.03333333333333,1602.0,Maize,clay,9.815242767333984,https://doi.org/10.4172/2168-9768.1000207,2025-11-26 17:06:40,9.0
+3327,Conventional/Fixed Scheduling,17499.59865,8.433333333333334,39.03333333333333,1602.0,Maize,clay,9.815242767333984,https://doi.org/10.4172/2168-9768.1000207,2025-11-26 17:06:40,9.0
+3328,Deficit/Partial Irrigation,28140.8787,-9.133333333333333,-40.3,370.0,Perennials,clay,4.62,https://doi.org/10.17765/2176-9168.2021v14n2e7832,2025-11-26 17:14:28,9.0
+3329,Deficit/Partial Irrigation,33012.46215,-9.133333333333333,-40.3,370.0,Perennials,clay,5.57,https://doi.org/10.17765/2176-9168.2021v14n2e7832,2025-11-26 17:14:28,9.0
+3330,Evapotranspiration-Based,12648.0,33.605,-101.877,992.0,Maize,sandy clay loams,8.848677635192871,https://doi.org/10.3389/fpls.2022.853746,2025-11-26 17:25:38,8.0
+3331,Evapotranspiration-Based,13726.0,33.605,-101.877,992.0,Maize,sandy clay loams,8.848677635192871,https://doi.org/10.3389/fpls.2022.853746,2025-11-26 17:25:38,8.0
+3332,Evapotranspiration-Based,10527.0,33.605,-101.877,992.0,Maize,sandy clay loams,8.811223983764648,https://doi.org/10.3389/fpls.2022.853746,2025-11-26 17:25:38,8.0
+3333,Evapotranspiration-Based,7707.0,33.605,-101.877,992.0,Maize,sandy clay loams,8.635933876037598,https://doi.org/10.3389/fpls.2022.853746,2025-11-26 17:25:38,8.0
+3334,Evapotranspiration-Based,7495.0,33.605,-101.877,992.0,Maize,sandy clay loams,8.635933876037598,https://doi.org/10.3389/fpls.2022.853746,2025-11-26 17:25:38,8.0
+3335,Evapotranspiration-Based,4320.0,33.605,-101.877,992.0,Maize,sandy clay loams,8.594532012939453,https://doi.org/10.3389/fpls.2022.853746,2025-11-26 17:25:38,8.0
+3336,Soil Moisture-Based,9888.3165,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.97,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3337,Soil Moisture-Based,9434.724,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.96,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3338,Soil Moisture-Based,8890.413,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.98,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3339,Soil Moisture-Based,8164.664999999999,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.06,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3340,Conventional/Fixed Scheduling,7620.354,-2.1166666666666667,37.72833333333333,975.0,Maize,sandy loams,2.2,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3341,Soil Moisture-Based,9253.286999999998,-2.1166666666666667,37.72833333333333,975.0,Maize,sandy loams,2.3,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3342,Soil Moisture-Based,8255.3835,-2.1166666666666667,37.72833333333333,975.0,Maize,sandy loams,2.37,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3343,Soil Moisture-Based,7711.072499999999,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.48,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3344,Soil Moisture-Based,5443.11,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.98,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3345,Conventional/Fixed Scheduling,2721.555,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.66,https://doi.org/10.1016/S1002-0160(15)30071-0,2025-11-26 17:48:45,9.0
+3346,Soil Moisture-Based,9888.3165,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.97,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3347,Soil Moisture-Based,9434.724,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.96,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3348,Soil Moisture-Based,8890.413,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.98,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3349,Soil Moisture-Based,8164.664999999999,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.06,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3350,Conventional/Fixed Scheduling,7620.354,-2.1166666666666667,37.72833333333333,975.0,Maize,sandy loams,2.2,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3351,Soil Moisture-Based,9253.286999999998,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.3,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3352,Soil Moisture-Based,8255.3835,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.37,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3353,Soil Moisture-Based,7711.072499999999,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.48,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3354,Soil Moisture-Based,5443.11,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.98,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3355,Conventional/Fixed Scheduling,2721.555,-2.1166666666666667,37.72833333333333,975.0,Maize,sandy loams,1.66,https://doi.org/10.1007/s00271-008-0117-0,2025-11-26 17:51:49,9.0
+3356,Deficit/Partial Irrigation,11784.33315,35.79,106.75,1800.0,Maize,silt loams,2.762,https://doi.org/10.1038/s41598-017-14133-1,2025-11-26 17:52:04,9.0
+3357,Deficit/Partial Irrigation,11684.5428,35.79,106.75,1800.0,Maize,silt loams,3.439,https://doi.org/10.1038/s41598-017-14133-1,2025-11-26 17:52:04,9.0
+3358,Deficit/Partial Irrigation,11893.195349999998,35.79,106.75,1800.0,Maize,silt loams,2.6100000000000003,https://doi.org/10.1038/s41598-017-14133-1,2025-11-26 17:52:04,9.0
+3359,Deficit/Partial Irrigation,11711.75835,35.79,106.75,1800.0,Maize,silt loams,3.108,https://doi.org/10.1038/s41598-017-14133-1,2025-11-26 17:52:04,9.0
+3360,Deficit/Partial Irrigation,11076.72885,35.79,106.75,1800.0,Maize,silt loams,2.507,https://doi.org/10.1038/s41598-017-14133-1,2025-11-26 17:52:04,9.0
+3361,Deficit/Partial Irrigation,10369.12455,35.79,106.75,1800.0,Maize,silt loams,2.991,https://doi.org/10.1038/s41598-017-14133-1,2025-11-26 17:52:04,9.0
+3362,Conventional/Fixed Scheduling,10096.96905,35.79,106.75,1800.0,Maize,silt loams,2.377,https://doi.org/10.1038/s41598-017-14133-1,2025-11-26 17:52:04,9.0
+3363,Conventional/Fixed Scheduling,8391.46125,35.79,106.75,1800.0,Maize,silt loams,2.665,https://doi.org/10.1038/s41598-017-14133-1,2025-11-26 17:52:04,9.0
+3374,Soil Moisture-Based,9888.3165,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.97,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3375,Soil Moisture-Based,9434.724,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.96,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3376,Soil Moisture-Based,8890.413,-2.1166666666666667,37.72833333333333,975.0,Maize,sandy loams,1.98,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3377,Soil Moisture-Based,8164.664999999999,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.06,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3378,Conventional/Fixed Scheduling,7620.354,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.2,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3379,Soil Moisture-Based,9253.286999999998,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.3,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3380,Soil Moisture-Based,8255.3835,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,2.37,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3381,Soil Moisture-Based,7711.072499999999,-2.1166666666666667,37.72833333333333,975.0,Maize,sandy loams,2.48,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3382,Soil Moisture-Based,5443.11,-2.1166666666666667,37.7285,975.0,Maize,sandy loams,1.98,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3383,Conventional/Fixed Scheduling,2721.555,-2.1166666666666667,37.72833333333333,975.0,Maize,sandy loams,1.66,https://doi.org/10.1007/s10725-017-0359-z,2025-11-26 17:58:05,9.0
+3426,Specialized Irrigation Delivery,9330.55,-22.70833333333333,-47.63333333333333,546.0,Vegetables,sandy loams,8.84350872039795,http://dx.doi.org/10.1590/S0100-69162011000500003,2025-11-26 19:03:03,8.0
+3427,Specialized Irrigation Delivery,25272.73,-22.70833333333333,-47.63333333333333,546.0,Vegetables,sandy loams,10.39993381500244,http://dx.doi.org/10.1590/S0100-69162011000500003,2025-11-26 19:03:03,8.0
+3444,Deficit/Partial Irrigation,43961.91,38.65,100.71666666666668,1970.0,Roots_Tubers,sandy clay loams,8.67,https://doi.org/10.1038/s41598-021-95340-9,2025-11-26 19:52:37,9.0
+3445,Deficit/Partial Irrigation,41016.67,38.65,100.71666666666668,1970.0,Roots_Tubers,sandy clay loams,8.18,https://doi.org/10.1038/s41598-021-95340-9,2025-11-26 19:52:37,9.0
+3446,Deficit/Partial Irrigation,36430.71,38.65,100.71666666666668,1970.0,Roots_Tubers,sandy clay loams,7.32,https://doi.org/10.1038/s41598-021-95340-9,2025-11-26 19:52:37,9.0
+3447,Deficit/Partial Irrigation,42262.25,38.65,100.71666666666668,1970.0,Roots_Tubers,sandy clay loams,8.18,https://doi.org/10.1038/s41598-021-95340-9,2025-11-26 19:52:37,9.0
+3448,Deficit/Partial Irrigation,40473.53,38.65,100.71666666666668,1970.0,Roots_Tubers,sandy clay loams,8.28,https://doi.org/10.1038/s41598-021-95340-9,2025-11-26 19:52:37,9.0
+3449,Deficit/Partial Irrigation,37461.29,38.65,100.71666666666668,1970.0,Roots_Tubers,sandy clay loams,7.88,https://doi.org/10.1038/s41598-021-95340-9,2025-11-26 19:52:37,9.0
+3450,Deficit/Partial Irrigation,33834.86,38.65,100.71666666666668,1970.0,Roots_Tubers,sandy clay loams,6.81,https://doi.org/10.1038/s41598-021-95340-9,2025-11-26 19:52:37,9.0
+3451,Deficit/Partial Irrigation,37599.61,38.65,100.71666666666668,1970.0,Roots_Tubers,sandy clay loams,8.21,https://doi.org/10.1038/s41598-021-95340-9,2025-11-26 19:52:37,9.0
+3452,Conventional/Fixed Scheduling,46033.23,38.65,100.71666666666668,1970.0,Roots_Tubers,sandy clay loams,7.82,https://doi.org/10.1038/s41598-021-95340-9,2025-11-26 19:52:37,9.0
+3453,Conventional/Fixed Scheduling,71604.11205,47.0,20.0,92.0,Vegetables,silt loams,11.591781616210938,https://doi.org/10.1071/AR07215,2025-11-26 19:55:48,9.0
+3454,Conventional/Fixed Scheduling,33565.845,47.0,20.0,92.0,Vegetables,silt loams,10.011372566223145,https://doi.org/10.1071/AR07215,2025-11-26 19:55:48,9.0
+3455,Conventional/Fixed Scheduling,24158.33655,47.0,20.0,92.0,Vegetables,silt loams,9.825804710388184,https://doi.org/10.1071/AR07215,2025-11-26 19:55:48,9.0
+3456,Conventional/Fixed Scheduling,88387.03455,47.0,20.0,92.0,Vegetables,silt loams,11.591781616210938,https://doi.org/10.1071/AR07215,2025-11-26 19:55:48,9.0
+3457,Conventional/Fixed Scheduling,14179.30155,47.0,20.0,92.0,Vegetables,silt loams,8.946345329284668,https://doi.org/10.1071/AR07215,2025-11-26 19:55:48,9.0
+3458,Conventional/Fixed Scheduling,13290.26025,47.0,20.0,92.0,Vegetables,silt loams,8.946345329284668,https://doi.org/10.1071/AR07215,2025-11-26 19:55:48,9.0
+3459,Conventional/Fixed Scheduling,19867.3515,47.0,20.0,92.0,Vegetables,silt loams,9.825804710388184,https://doi.org/10.1071/AR07215,2025-11-26 19:55:48,9.0
+3460,Conventional/Fixed Scheduling,16810.13805,47.0,20.0,92.0,Vegetables,silt loams,9.768288612365724,https://doi.org/10.1071/AR07215,2025-11-26 19:55:48,9.0
+3461,Evapotranspiration-Based,121662.58035,-20.75,-42.86666666666667,690.0,Vegetables,clay,10.740839958190918,https://doi.org/10.1007/s13580-014-0180-9,2025-11-26 20:09:21,9.0
+3462,Deficit/Partial Irrigation,103664.02995,-20.75,-42.86667,690.0,Vegetables,clay,10.740839958190918,https://doi.org/10.1007/s13580-014-0180-9,2025-11-26 20:09:21,9.0
+3463,Evapotranspiration-Based,96052.7478,-20.75,-42.86667,690.0,Vegetables,sandy clay loams,10.740839958190918,https://doi.org/10.1007/s13580-014-0180-9,2025-11-26 20:09:21,9.0
+3464,Deficit/Partial Irrigation,86391.22755,-20.75,-42.86666666666667,690.0,Vegetables,sandy clay loams,10.740839958190918,https://doi.org/10.1007/s13580-014-0180-9,2025-11-26 20:09:21,9.0
+3505,Conventional/Fixed Scheduling,12791.3085,38.7053213,-1.4492231,820.0,Vines,loamy sands,6.81,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3506,Conventional/Fixed Scheduling,19323.0405,38.7053213,-1.4492231,820.0,Vines,loamy sands,5.12,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3507,Conventional/Fixed Scheduling,17145.796499999997,38.7053213,-1.4492231,820.0,Vines,loamy sands,3.53,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3508,Conventional/Fixed Scheduling,17508.6705,38.7053213,-1.4492231,820.0,Vines,loamy sands,4.04,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3509,Conventional/Fixed Scheduling,15966.456,38.7053213,-1.4492231,820.0,Vines,loamy sands,3.98,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3510,Conventional/Fixed Scheduling,16510.767,38.7053213,-1.4492231,820.0,Vines,loamy sands,4.03,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3511,Specialized Irrigation Delivery,12000.0,39.6086,109.78157,1300.0,Hay,coarse sands,2.5,https://doi.org/10.3390/w15122242,2025-09-12 17:00:17,9.0
+3522,Conventional/Fixed Scheduling,2231.6751,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3523,Conventional/Fixed Scheduling,2440.32765,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3524,Conventional/Fixed Scheduling,2549.18985,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3525,Conventional/Fixed Scheduling,3265.866,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3526,Conventional/Fixed Scheduling,3891.82365,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3527,Conventional/Fixed Scheduling,3093.50085,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3528,Conventional/Fixed Scheduling,2558.2617,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3529,Evapotranspiration-Based,3401.94375,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3530,Evapotranspiration-Based,3556.1652,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3531,Evapotranspiration-Based,3175.1475,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3532,Evapotranspiration-Based,1787.1544499999998,38.4871699,106.2266569,1100.0,Hay,coarse sands,21.35,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3545,Evapotranspiration-Based,20180.0,30.90015,75.85229,250.0,Vines,clay,9.35,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3546,Deficit/Partial Irrigation,19260.0,30.90015,75.85229,250.0,Vines,clay,9.84,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3547,Deficit/Partial Irrigation,17130.0,30.90015,75.85229,250.0,Vines,clay,11.59,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3548,Evapotranspiration-Based,20180.0,30.90015,75.85229,250.0,Vines,clay,9.35,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3549,Deficit/Partial Irrigation,19260.0,30.90015,75.85229,250.0,Vines,clay,9.84,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3550,Deficit/Partial Irrigation,17130.0,30.90015,75.85229,250.0,Vines,clay,11.59,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3551,Specialized Irrigation Delivery,9145.9488708,46.24969,-119.477799,159.0,Vines,loamy sands,2987434.18593675,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3552,Specialized Irrigation Delivery,7621.624059,46.24969,-119.477799,159.0,Vines,loamy sands,2987434.18593675,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3553,Specialized Irrigation Delivery,7128.460149300001,46.24969,-119.477799,159.0,Vines,loamy sands,2987434.18593675,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3554,Specialized Irrigation Delivery,11253.103757699995,46.24969,-119.477799,159.0,Vines,loamy sands,5291791.133766749,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3555,Specialized Irrigation Delivery,9392.53082565,46.24969,-119.477799,159.0,Vines,loamy sands,5291791.133766749,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3556,Specialized Irrigation Delivery,7890.6225552,46.24969,-119.477799,159.0,Vines,loamy sands,5291791.133766749,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3557,Specialized Irrigation Delivery,9930.52781805,46.24969,-119.477799,159.0,Vines,loamy sands,3077962.4946015,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3558,Specialized Irrigation Delivery,9101.1157881,46.24969,-119.477799,159.0,Vines,loamy sands,3077962.4946015,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3559,Specialized Irrigation Delivery,7890.6225552,46.24969,-119.477799,159.0,Vines,loamy sands,3077962.4946015,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3560,Specialized Irrigation Delivery,46266.435,-6.78694,-43.56917,170.0,Perennials,sandy loams,10.184436798095703,https://doi.org/10.1016/j.fcr.2016.06.013,2025-11-25 19:11:29,8.0
+3561,Specialized Irrigation Delivery,63502.95,-6.78694,-43.56917,170.0,Perennials,sandy loams,10.740839958190918,https://doi.org/10.1016/j.fcr.2016.06.013,2025-11-25 19:11:29,8.0
+3562,Plant or Climate-Based,6441.013499999999,49.0,32.0,150.0,Legumes_Grains,sandy loams,8.823047637939453,https://doi.org/10.2478/heem-2023-0008,2025-11-25 21:13:09,8.0
+3563,Plant or Climate-Based,4717.362,49.0,32.0,150.0,Legumes_Grains,sandy loams,8.823047637939453,https://doi.org/10.2478/heem-2023-0008,2025-11-25 21:13:09,8.0
+3576,Conventional/Fixed Scheduling,4808.080499999999,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,7.13,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3577,Conventional/Fixed Scheduling,7983.228,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,6.77,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3578,Conventional/Fixed Scheduling,7620.354,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,6.05,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3579,Conventional/Fixed Scheduling,7620.354,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,6.17,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3580,Conventional/Fixed Scheduling,7166.7615,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,5.61,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3581,Conventional/Fixed Scheduling,6441.013499999999,38.71666666666667,-1.4666666666666666,820.0,Vines,loamy sands,5.98,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3582,Deficit/Partial Irrigation,8015.0,44.3079869,86.0549057,470.0,Wheat,sandy clay loams,1.39,https://doi.org/10.1016/j.agwat.2020.106002,2025-11-24 23:54:19,9.0
+3583,Conventional/Fixed Scheduling,1678.29225,38.66666666666666,106.3,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3584,Conventional/Fixed Scheduling,1678.29225,38.66666666666666,106.3,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3585,Conventional/Fixed Scheduling,1941.3759,38.66666666666666,106.3,1100.0,Hay,coarse sands,26.04,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3586,Conventional/Fixed Scheduling,1941.3759,38.66666666666666,106.3,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3587,Evapotranspiration-Based,2884.8483,38.66666666666666,106.3,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3588,Evapotranspiration-Based,2884.8483,38.66666666666666,106.3,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3589,Deficit/Partial Irrigation,29900.0,14.149166666666666,38.28388888888889,1945.0,Vegetables,clay,0.16,https://doi.org/10.1016/j.agwat.2009.08.021,2025-11-25 01:19:20,8.0
+3597,Deficit/Partial Irrigation,19110.0,30.90015,75.85229,250.0,Vines,clay,11.3,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3598,Deficit/Partial Irrigation,16880.0,30.90015,75.85229,250.0,Vines,clay,13.42,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3599,Deficit/Partial Irrigation,19110.0,30.90015,75.85229,250.0,Vines,clay,11.3,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3600,Deficit/Partial Irrigation,16880.0,30.90015,75.85229,250.0,Vines,clay,13.42,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3603,Evapotranspiration-Based,2172.0,28.066666666666663,74.05,238.3,Fibers_Oilseeds,loamy sands,0.661,https://doi.org/10.1038/s41598-021-82968-w,2025-11-25 15:32:18,9.0
+3604,Deficit/Partial Irrigation,2817.0,28.06667,74.05,238.3,Fibers_Oilseeds,loamy sands,0.67,https://doi.org/10.1038/s41598-021-82968-w,2025-11-25 15:32:18,9.0
+3605,Deficit/Partial Irrigation,3810.0,28.06667,74.05,238.3,Fibers_Oilseeds,loamy sands,0.633,https://doi.org/10.1038/s41598-021-82968-w,2025-11-25 15:32:18,9.0
+3606,Deficit/Partial Irrigation,2870.0,28.06667,74.05,238.3,Fibers_Oilseeds,loamy sands,0.636,https://doi.org/10.1038/s41598-021-82968-w,2025-11-25 15:32:18,9.0
+3607,Deficit/Partial Irrigation,2122.0,28.06667,74.05,238.3,Fibers_Oilseeds,loamy sands,0.607,https://doi.org/10.1038/s41598-021-82968-w,2025-11-25 15:32:18,9.0
+3608,Deficit/Partial Irrigation,1316.0,28.06667,74.05,238.3,Fibers_Oilseeds,loamy sands,0.552,https://doi.org/10.1038/s41598-021-82968-w,2025-11-25 15:32:18,9.0
+3609,Specialized Irrigation Delivery,10177.1097729,46.2831,-119.4425,226.0,Vines,loamy sands,4147842.506094,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3610,Specialized Irrigation Delivery,10177.1097729,46.2831,-119.4425,226.0,Vines,loamy sands,6995369.305912499,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3611,Specialized Irrigation Delivery,10177.1097729,46.2831,-119.4425,226.0,Vines,loamy sands,13085455.5251775,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3612,Specialized Irrigation Delivery,18291.8977416,46.2831,-119.4425,226.0,Vines,loamy sands,4921448.0528655,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3613,Specialized Irrigation Delivery,18291.8977416,46.2831,-119.4425,226.0,Vines,loamy sands,8015870.239951499,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3614,Specialized Irrigation Delivery,18291.8977416,46.2831,-119.4425,226.0,Vines,loamy sands,12591664.7506425,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3615,Specialized Irrigation Delivery,10401.2751864,46.2831,-119.4425,226.0,Vines,loamy sands,4929677.89910775,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3616,Specialized Irrigation Delivery,10401.2751864,46.2831,-119.4425,226.0,Vines,loamy sands,9028141.32774825,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3617,Specialized Irrigation Delivery,10401.2751864,46.2831,-119.4425,226.0,Vines,loamy sands,15249905.08688925,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3624,Conventional/Fixed Scheduling,12791.3085,38.7053213,-1.4492231,820.0,Vines,loamy sands,7.13,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3625,Conventional/Fixed Scheduling,19323.0405,38.7053213,-1.4492231,820.0,Vines,loamy sands,6.77,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3626,Conventional/Fixed Scheduling,17145.796499999997,38.7053213,-1.4492231,820.0,Vines,loamy sands,6.05,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3627,Conventional/Fixed Scheduling,17508.6705,38.7053213,-1.4492231,820.0,Vines,loamy sands,6.17,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3628,Conventional/Fixed Scheduling,15966.456,38.7053213,-1.4492231,820.0,Vines,loamy sands,5.61,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3629,Conventional/Fixed Scheduling,16510.767,38.7053213,-1.4492231,820.0,Vines,loamy sands,5.98,https://doi.org/10.1007/s00271-022-00795-x,2025-09-12 05:15:05,9.0
+3630,Conventional/Fixed Scheduling,2231.6751,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3631,Conventional/Fixed Scheduling,2231.6751,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3632,Conventional/Fixed Scheduling,2440.32765,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3633,Conventional/Fixed Scheduling,2440.32765,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3634,Conventional/Fixed Scheduling,2549.18985,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3635,Conventional/Fixed Scheduling,2549.18985,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3636,Conventional/Fixed Scheduling,1995.807,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3637,Conventional/Fixed Scheduling,1995.807,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3638,Conventional/Fixed Scheduling,3265.866,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.04,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3639,Conventional/Fixed Scheduling,3265.866,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3640,Conventional/Fixed Scheduling,3891.82365,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.04,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3641,Conventional/Fixed Scheduling,3891.82365,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3642,Conventional/Fixed Scheduling,3093.50085,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.04,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3643,Conventional/Fixed Scheduling,3093.50085,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3644,Conventional/Fixed Scheduling,2558.2617,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.04,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3645,Conventional/Fixed Scheduling,2558.2617,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3646,Evapotranspiration-Based,3401.94375,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3647,Evapotranspiration-Based,3401.94375,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3648,Evapotranspiration-Based,3556.1652,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3649,Evapotranspiration-Based,3556.1652,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3650,Evapotranspiration-Based,3175.1475,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3651,Evapotranspiration-Based,3175.1475,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3652,Evapotranspiration-Based,1787.1544499999998,38.4871699,106.2266569,1100.0,Hay,coarse sands,26.69,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3653,Evapotranspiration-Based,1787.1544499999998,38.4871699,106.2266569,1100.0,Hay,coarse sands,11.02,https://doi.org/10.1016/j.agwat.2020.106440,2025-11-25 00:03:28,8.0
+3661,Deficit/Partial Irrigation,19260.0,30.90015,75.85229,250.0,Vines,clay,11.3,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3662,Deficit/Partial Irrigation,17130.0,30.90015,75.85229,250.0,Vines,clay,13.42,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3663,Deficit/Partial Irrigation,19260.0,30.90015,75.85229,250.0,Vines,clay,11.3,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3664,Deficit/Partial Irrigation,17130.0,30.90015,75.85229,250.0,Vines,clay,13.42,https://doi.org/10.1081/PLN-200052635,2025-11-25 10:56:06,9.0
+3665,Specialized Irrigation Delivery,9145.9488708,46.24969,-119.477799,159.0,Vines,loamy sands,4147842.506094,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3666,Specialized Irrigation Delivery,9145.9488708,46.24969,-119.477799,159.0,Vines,loamy sands,6995369.305912499,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3667,Specialized Irrigation Delivery,9145.9488708,46.24969,-119.477799,159.0,Vines,loamy sands,13085455.5251775,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3668,Specialized Irrigation Delivery,7621.624059,46.24969,-119.477799,159.0,Vines,loamy sands,4147842.506094,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3669,Specialized Irrigation Delivery,7621.624059,46.24969,-119.477799,159.0,Vines,loamy sands,6995369.305912499,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3670,Specialized Irrigation Delivery,7128.460149300001,46.24969,-119.477799,159.0,Vines,loamy sands,4147842.506094,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3671,Specialized Irrigation Delivery,7128.460149300001,46.24969,-119.477799,159.0,Vines,loamy sands,6995369.305912499,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3672,Specialized Irrigation Delivery,7128.460149300001,46.24969,-119.477799,159.0,Vines,loamy sands,13085455.5251775,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3673,Specialized Irrigation Delivery,11253.103757699995,46.24969,-119.477799,159.0,Vines,loamy sands,4921448.0528655,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3674,Specialized Irrigation Delivery,11253.103757699995,46.24969,-119.477799,159.0,Vines,loamy sands,8015870.239951499,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3675,Specialized Irrigation Delivery,11253.103757699995,46.24969,-119.477799,159.0,Vines,loamy sands,12591664.7506425,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3676,Specialized Irrigation Delivery,9392.53082565,46.24969,-119.477799,159.0,Vines,loamy sands,4921448.0528655,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3677,Specialized Irrigation Delivery,9392.53082565,46.24969,-119.477799,159.0,Vines,loamy sands,8015870.239951499,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3678,Specialized Irrigation Delivery,9392.53082565,46.24969,-119.477799,159.0,Vines,loamy sands,12591664.7506425,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3679,Specialized Irrigation Delivery,7890.6225552,46.24969,-119.477799,159.0,Vines,loamy sands,4921448.0528655,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3680,Specialized Irrigation Delivery,7890.6225552,46.24969,-119.477799,159.0,Vines,loamy sands,8015870.239951499,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3681,Specialized Irrigation Delivery,7890.6225552,46.24969,-119.477799,159.0,Vines,loamy sands,12591664.7506425,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3682,Specialized Irrigation Delivery,9930.52781805,46.24969,-119.477799,159.0,Vines,loamy sands,4929677.89910775,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3683,Specialized Irrigation Delivery,9930.52781805,46.24969,-119.477799,159.0,Vines,loamy sands,9028141.32774825,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3684,Specialized Irrigation Delivery,9930.52781805,46.24969,-119.477799,159.0,Vines,loamy sands,15249905.08688925,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3685,Specialized Irrigation Delivery,9101.1157881,46.24969,-119.477799,159.0,Vines,loamy sands,4929677.89910775,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3686,Specialized Irrigation Delivery,9101.1157881,46.24969,-119.477799,159.0,Vines,loamy sands,9028141.32774825,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3687,Specialized Irrigation Delivery,9101.1157881,46.24969,-119.477799,159.0,Vines,loamy sands,15249905.08688925,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3688,Specialized Irrigation Delivery,7890.6225552,46.24969,-119.477799,159.0,Vines,loamy sands,4929677.89910775,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3689,Specialized Irrigation Delivery,7890.6225552,46.24969,-119.477799,159.0,Vines,loamy sands,9028141.32774825,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
+3690,Specialized Irrigation Delivery,7890.6225552,46.24969,-119.477799,159.0,Vines,loamy sands,15249905.08688925,https://doi.org/10.3390/rs9090961,2025-11-25 16:44:56,9.0
