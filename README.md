@@ -13,16 +13,16 @@ All code was originally made on Google Colab before being transported to this re
 ### Code
 Contains 3 subdirectories:
   - Crawler
-      Step 1: updated_crawler+scoring.py contains full crawling and scraping methodology for downloading papers
-      Step 2: feature_extraction_only contains full LLM prompting and generates the final raw dataset of samples
-      Step 3: data_deduplication.py contains the post-crawl checks for data duplication
+      - Step 1: updated_crawler+scoring.py contains full crawling and scraping methodology for downloading papers
+      - Step 2: feature_extraction_only contains full LLM prompting and generates the final raw dataset of samples
+      - Step 3: data_deduplication.py contains the post-crawl checks for data duplication
 
   - Data Processing
-      Step 1: data_exploration.py analyzes which features are most populated
-      Step 2: initial_analysis_and_cleaning.py drops samples without irrigation scheduling methods and plant yields (the two most important features) and begins removing non-numeric values from plant yield
-      Step 3: categorization_and_unit_conversions.py standardizes both categorical and numerical features
-      Step 4: filling_null_values.py fills null values of important but less populated features like soil type and water productivity
-      Step 5: prep_for_model.py prepares for model training by dropping outliers and doing train/test split
+      - Step 1: data_exploration.py analyzes which features are most populated
+      - Step 2: initial_analysis_and_cleaning.py drops samples without irrigation scheduling methods and plant yields (the two most important features) and begins removing non-numeric values from plant yield
+      - Step 3: categorization_and_unit_conversions.py standardizes both categorical and numerical features
+      - Step 4: filling_null_values.py fills null values of important but less populated features like soil type and water productivity
+      - Step 5: prep_for_model.py prepares for model training by dropping outliers and doing train/test split
 
   - Evaluation
       - model_training.py
