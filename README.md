@@ -30,8 +30,8 @@ Contains 3 subdirectories:
       - skew_analysis.py - on raw dataset
 
 ### Data
-  - all_downloaded_papers_doi.csv
-  - final_raw_dataset_updated_doi.csv
-  - all_manually_extracted_data_vs_llm_output.csv
+  - all_downloaded_papers_doi.csv - all downloaded papers after crawling for 72 hours
+  - final_raw_dataset_updated_doi.csv - raw dataset after extracting data from all downloaded papers
+  - all_manually_extracted_data_vs_llm_output.csv - manually extracted data from 10% of dataset versus what the LLM extracted
   - summary_for_manual_check_of_feature_extraction.csv - a table with all experimental recalls and descriptions
-  - final_dataset_updated_doi.csv
+  - final_dataset_updated_doi.csv - final processed dataset
