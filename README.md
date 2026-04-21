@@ -8,7 +8,7 @@ Irrigation scheduling strongly influences crop yield and water use efficiency, y
 [TBD]
 
 **Link to Related Website**
-(www.irrigationmatch.com)[www.irrigationmatch.com]
+[www.irrigationmatch.com](https://www.irrigationmatch.com/home)
 
 ## Directories 
 All code was originally made on Google Colab before being transported to this repository.
