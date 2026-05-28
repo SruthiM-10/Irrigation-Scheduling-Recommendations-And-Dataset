@@ -34,7 +34,9 @@ from langchain_core.messages import SystemMessage
 import pickle
 from pydantic import Field, conlist, BaseModel, ConfigDict
 from langchain_core.output_parsers import PydanticOutputParser
-import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 papers_dataset_path = "/content/drive/MyDrive/1:1_Sruthi_Manoj/Dataset/csv_files (current)/Extra analysis/full_compiled_irrigation_dataset.csv"
 
@@ -108,7 +110,7 @@ RULES:
 """# Helper Functions"""
 
 def setup_llm() -> Optional[ChatOpenAI]:
-    if not os.environ["OPENAI_API_KEY"]:
+    if not os.getenv("OPENAI_API_KEY"):
         print("ERROR: OPENAI_API_KEY is not set. Please set your OpenAI API key.")
         return None
 
