@@ -41,6 +41,9 @@ warnings.filterwarnings(
     module='langchain_openai.chat_models.base'
 )
 
+from dotenv import load_dotenv
+load_dotenv()
+
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def setup_llm() -> Optional[ChatOpenAI]:
     if not os.environ["OPENAI_API_KEY"]:
