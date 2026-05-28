@@ -42,13 +42,12 @@ warnings.filterwarnings(
     module='langchain_openai.chat_models.base'
 )
 
-# Set up OpenAI API
-os.environ["OPENAI_API_KEY"] = ""
-# sm's acccount
+from dotenv import load_dotenv
+load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def setup_llm() -> Optional[ChatOpenAI]:
-    if not os.environ["OPENAI_API_KEY"]:
+    if not os.getenv("OPENAI_API_KEY"):
         print("ERROR: OPENAI_API_KEY is not set. Please set your OpenAI API key.")
         return None
 
