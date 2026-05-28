@@ -41,10 +41,6 @@ warnings.filterwarnings(
     module='langchain_openai.chat_models.base'
 )
 
-# Set up OpenAI API
-os.environ["OPENAI_API_KEY"] = ""
-# sm's acccount
-
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 def setup_llm() -> Optional[ChatOpenAI]:
     if not os.environ["OPENAI_API_KEY"]:
@@ -103,7 +99,7 @@ all_samples["water_productivity_filled"] = all_samples["water_productivity_kg_pe
 
 all_samples.loc[0, 'location'] # test
 
-api_key = "4353f25480414794ae44c1c458d81258" # open cage (forward geocoding)
+api_key = os.getenv("GEOCODING_API_KEY") # TODO: add your api key for OpenCage (forward geocoding)
 base_url = f"https://api.opencagedata.com/geocode/v1/json?key={api_key}"
 response = requests.get(f"{base_url}&q={all_samples.loc[0, 'location']}")
 response.json()
@@ -276,7 +272,7 @@ df = last_df.copy()
 
 df[["water_productivity_kg_per_m^3"]].describe().T.style.format('{:.2f}')
 
-"""Using AI"""
+"""Using AI to improve filling null values above mean/mode baseline"""
 
 import tensorflow as tf
 from tensorflow.keras.layers import Dense, Input, Dropout, BatchNormalization
