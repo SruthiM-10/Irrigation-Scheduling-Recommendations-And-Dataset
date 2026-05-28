@@ -41,7 +41,6 @@ OPENAI_API_KEY="your_openai_api_key_here"
 SERPSTACK_API_KEY="your_serpstack_api_key_here"
 GEOCODING_API_KEY="your_geocoding_api_key_here"
 ```
-*Note: We recommend keeping the Langchain configuration values exactly as filled in above.*
 
 ### 4. Important Notes on Running the Code
 
