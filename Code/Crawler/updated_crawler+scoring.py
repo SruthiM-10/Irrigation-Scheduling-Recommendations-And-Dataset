@@ -34,16 +34,9 @@ from langchain_core.messages import SystemMessage
 import pickle
 from pydantic import Field, conlist, BaseModel, ConfigDict
 from langchain_core.output_parsers import PydanticOutputParser
+from dotenv import load_dotenv
 
-# Set environment variables for LangChain and OpenAI
-import os
-os.environ["LANGCHAIN_TRACING_V2"] = "false"
-os.environ["LANGCHAIN_API_KEY"] = ""
-os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
-os.environ["LANGCHAIN_PROJECT"] = "irrigation-crawler"
-os.environ["OPENAI_API_KEY"] = ""
-# sm's acccount
-os.environ["SERPSTACK_API_KEY"] = ""
+load_dotenv()
 
 # save point for intermediate papers
 DOWNLOAD_DIR = "/content/drive/MyDrive/1:1_Sruthi_Manoj/Dataset/Papers (current)"
@@ -130,7 +123,7 @@ Paper text:
 """# Helper Functions"""
 
 def setup_llm() -> Optional[ChatOpenAI]:
-    if not os.environ["OPENAI_API_KEY"]:
+    if not os.getenv("OPENAI_API_KEY"):
         print("ERROR: OPENAI_API_KEY is not set. Please set your OpenAI API key.")
         return None
 
