@@ -7,6 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1RttFil0e4jj1L6U2s_KfH_L7hRG3D8NL
 """
 
+# if using on Google Colab
 from google.colab import drive
 drive.mount('/content/drive', force_remount= True)
 
@@ -37,7 +38,9 @@ from pydantic import Field, conlist, BaseModel, ConfigDict
 from langchain_core.output_parsers import PydanticOutputParser
 from collections import Counter
 import matplotlib.pyplot as plt
-import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 class DOILLM(BaseModel):
   doi_url: str = Field(description="DOI URL if available, otherwise 'NA'")
@@ -52,7 +55,7 @@ Paper text:
 """
 
 def setup_llm() -> Optional[ChatOpenAI]:
-    if not os.environ["OPENAI_API_KEY"]:
+    if not os.getenv("OPENAI_API_KEY"):
         print("ERROR: OPENAI_API_KEY is not set. Please set your OpenAI API key.")
         return None
 
