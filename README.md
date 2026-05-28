@@ -45,8 +45,8 @@ GEOCODING_API_KEY="your_geocoding_api_key_here"
 
 ### 4. Important Notes on Running the Code
 
-* **Review Path Names:** Please ensure that all file and directory path names in the scripts are reviewed and changed accordingly to match your local file system structure before running them.
-* **Google Colab / Jupyter Notebooks Recommended:** It is highly recommended to run these scripts in Google Colab or Jupyter Notebooks. You can convert the `.py` files to `.ipynb` notebooks for better visualization and step-by-step execution, although they can also be executed as standard `.py` scripts.
+* **Review Path Names:** Please ensure that all file and directory path names in the scripts are reviewed and changed accordingly to match your local file system structure before running them. Currently, all paths are based on my Google Drive.
+* **Google Colab / Jupyter Notebooks Recommended:** It is highly recommended to run these scripts in Google Colab (because of integration with Google Drive) or Jupyter Notebooks. You can convert the `.py` files to `.ipynb` notebooks for better visualization and step-by-step execution, although they can also be executed as standard `.py` scripts.
 
 ## Directories 
 All code was originally made on Google Colab before being transported to this repository.
