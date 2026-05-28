@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1RttFil0e4jj1L6U2s_KfH_L7hRG3D8NL
 """
 
-# if using on Google Colab
 from google.colab import drive
 drive.mount('/content/drive', force_remount= True)
 
