@@ -34,15 +34,7 @@ from langchain_core.messages import SystemMessage
 import pickle
 from pydantic import Field, conlist, BaseModel, ConfigDict
 from langchain_core.output_parsers import PydanticOutputParser
-
-# Set environment variables for LangChain and OpenAI
 import os
-os.environ["LANGCHAIN_TRACING_V2"] = "false"
-os.environ["LANGCHAIN_API_KEY"] = ""
-os.environ["LANGCHAIN_ENDPOINT"] = "https://api.smith.langchain.com"
-os.environ["LANGCHAIN_PROJECT"] = "irrigation-crawler"
-os.environ["OPENAI_API_KEY"] = ""
-# sm's acccount
 
 papers_dataset_path = "/content/drive/MyDrive/1:1_Sruthi_Manoj/Dataset/csv_files (current)/Extra analysis/full_compiled_irrigation_dataset.csv"
 
